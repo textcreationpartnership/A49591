@@ -1,0 +1,2746 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love victorious, or, The adventures of Oronces and Eugenia a novel / written in French by the Sieur de la Roberdiere ; translated by J.E.</title>
+            <title>Amant cloîtré. English</title>
+            <author>La Roberdière, Alexandre de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49591</idno>
+            <idno type="STC">Wing L445C</idno>
+            <idno type="STC">ESTC R6392</idno>
+            <idno type="EEBO-CITATION">12320831</idno>
+            <idno type="OCLC">ocm 12320831</idno>
+            <idno type="VID">59476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 189:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love victorious, or, The adventures of Oronces and Eugenia a novel / written in French by the Sieur de la Roberdiere ; translated by J.E.</title>
+                  <title>Amant cloîtré. English</title>
+                  <author>La Roberdière, Alexandre de.</author>
+                  <author>J. E.</author>
+               </titleStmt>
+               <extent>[2], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley and S. Magnes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Amant cloîtré.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:59476:1"/>
+            <pb n="1" facs="tcp:59476:1"/>
+            <head>LOVE VICTORIOUS OVER FORTUNE.</head>
+            <p>FORTUNE is a God<g ref="char:EOLhyphen"/>deſs ſo Capricious, that Love with all his
+charms, could never yet gain her entirely to his party, or
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder conſtantly
+favourable Her, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t takes
+pleaſure only in change. <pb facs="tcp:59476:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="1" facs="tcp:59476:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:59476:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="1" facs="tcp:59476:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="2" facs="tcp:59476:4"/>Inconſtancy is ſo
+much her Char<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cter, that if
+to day ſhe ſeconds tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+favours, wherewith that God gratifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Devotes, to morrow ſhe will ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them into a thouſand
+Misfortune and often makes no difficulty,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſtroy thoſe by a
+miſchance, who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhe
+hath preſerved in a thouſand da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gers. The following Novel w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> let you ſee the whole truth
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this, and I flatter my
+ſelf, that y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will
+receive no ſmall ſatisfactio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when, having deplored the fate
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> two Lovers, you ſhall have
+an o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>portunity to rejoice
+at their pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſperity, and
+to ſhare the happy ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceſs of their loves.</p>
+            <p>
+               <hi>Oronces</hi> was a Gentleman, of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the beſt Families in
+<hi>France,</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a
+Province, that acknowledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+his Father for its Governour: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was endowed with all qualiti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that render Nobility recommen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble, and it had been hard to
+dr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a true reſemblance of
+beaut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without having
+recourſe to his fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>e 
+<pb n="3" facs="tcp:59476:4"/>had more Courage, Wit, and a
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter Meen, than any in his
+Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and love could not
+make a fairer Conqueſt, then to be aſſured of the Heart of this
+<hi>Adonis.</hi>
+            </p>
+            <p>He was but ſixteen years old, when he received the firſt
+touches, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd when his Soul
+firſt reſented <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he
+tender Motions, and ſweet ſal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of that Paſſion, in its beginning;
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſince it was
+Impoſſible for him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong
+to reſiſt Charmes, ſo powerful,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thoſe were, which
+attracted him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e gave
+himſelf up to them without
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſiſtance, and became
+deſperately <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>morous of a
+young Beauty, of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me
+age, who was a moſt accom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liſh't creature.</p>
+            <p>
+               <hi>Eugenia,</hi> ſo was the Young Lady
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amed, was obliged to
+Nature, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll advantages
+deſirable by her Sex, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd
+endebted to Fortune, who to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obility of Blood, had joined a
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt Eſtate.</p>
+            <p>Love, fearing, that the long Court<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ip, which <hi>Oronces</hi> was to make, 
+<pb n="4" facs="tcp:59476:5"/>to convince <hi>Eugenia</hi> of his Flames might give him
+ſome diſtaſt, and make him quit his Party; with the ſame hand, and with
+the ſame ar<g ref="char:EOLhyphen"/>row, that he ſtruck his heart, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wounded the Fair ones; and ren<g ref="char:EOLhyphen"/>dered them ſo
+Amorous one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other,
+that the very Moment o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+their firſt Enterview, was that o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Engagement.</p>
+            <p>It was at a Ball, wherein theſe two Lovers met, that they were
+mutually ſmitten by looks, and that one half hours Converſation made them
+ſenſible of inclination to love each other Eternally.</p>
+            <p>
+               <hi>Oronces,</hi> who had a moſt agreeabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Voice, was deſired by the Company to Sing, but
+he handſomly excuſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+himſelf, becauſe he knew one Pre<g ref="char:EOLhyphen"/>ſent, who was more capable of
+ſa<g ref="char:EOLhyphen"/>tisfying it, than he. <hi>Eugenia,</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom it was he ſpake,
+after ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall
+reſiſtance, raviſhed all thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hearts with her Muſick; her Lo<g ref="char:EOLhyphen"/>ver followed
+her, and ſung with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb n="5" facs="tcp:59476:5"/>much Grace, that he equally char<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed all thoſe, that compoſed
+the Aſſembly: It was hard to judge where to beſtow the Prize: Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were for the Spark, and
+thought <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the
+ſweetneſs of his Voice, even excelled the Fair ones; but Our Lover, to
+benefit himſelf of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he
+opportunity, loudly gave her his applauſe; and ſo obliged the reſt to
+confeſs, that ſhe had the advantage over him.</p>
+            <p>The divertiſement being over, <hi>Oronces</hi> deſired of his
+Miſtreſs, that ſhe would permit him the Honour, of waiting upon her home:
+This he did, with a deſign of delaring himſelf more openly, than he could
+hitherto have done, and of drawing from that Fair one, ſome words, that might
+prove advantageous to him. Ah Madam, ſaid he, unto her, as they went, how
+aſhamed am I of my Age, ſince, I am as yet, me<g ref="char:EOLhyphen"/>thinks, too young to be
+believed in Love: Nevertheleſs, continued <pb n="6" facs="tcp:59476:6"/>he, I am, and
+that with the moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fair
+and amiable Perſon, that Hea<g ref="char:EOLhyphen"/>ven even created. Alas, if you hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the curioſity of knowing, who
+ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, I will immediately
+tell you. Is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome
+Beauty unknown to me <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Said
+<hi>Eugenia.</hi> Ah, Madam, replied our young Cavalier, you know he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well, and you alone have the
+abſo<g ref="char:EOLhyphen"/>lute power of making her favou<g ref="char:EOLhyphen"/>rable to me. But I dare not diſcover
+her. Very well, ſaid ſhe ſmilingly, inform me within three days, who
+ſhe is, or you ſhall not be aſſured of my ſervice with her.</p>
+            <p>This Order, ſo gallantly given, cauſed no little joy in our
+Lover; he parted from his Miſtreſs, after having ſhewn her a thouſand
+Civi<g ref="char:EOLhyphen"/>lities, and having conjured her, to mind the Promiſe, which ſhe made
+him, of doing good Offices, in order to procure for him, her favour, who
+created all his Paſſion.</p>
+            <p>Love cauſes more diſorder in hearts, newly wounded, then in
+thoſe, <pb n="7" facs="tcp:59476:6"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho for ſome time have experien<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed his ſmart. <hi>Oronces,</hi> and
+<hi>Euge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia</hi> did
+nothing elſe, but think of
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and he curſed his
+baſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lneſs, which had
+hindred him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom ſpeaking
+to her, whom he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved, after
+a manner, that might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſcover, what he truly ſelf for her. The term of three days
+appeared <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o him an Age, and
+what embar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſed him
+yet more, was how to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cquit
+himſelf of his promiſe, with<g ref="char:EOLhyphen"/>out diſpleaſing the Fair one, and to do
+things with that aire, as ſhould not be diſagreeable unto her. In fine, the
+Exceſs of his paſſion tranſ<g ref="char:EOLhyphen"/>ported him above all thoſe mea<g ref="char:EOLhyphen"/>ſures,
+which ordinary Prudence would have dictated unto; he belie<g ref="char:EOLhyphen"/>ved that he could
+not ſpeak too plainly to one, in whom, he had obſerved ſome
+diſpoſitions to re<g ref="char:EOLhyphen"/>ceive his Love, and that the fire of Youth would be an
+excuſe for his raſhneſs. Therefore he writ un<g ref="char:EOLhyphen"/>to her the following
+Letter, and <pb n="8" facs="tcp:59476:7"/>ſent it by one of his ſervants.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>I <hi>Muſt confeſs, Madam, that my wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> is very ſhallow, and capable
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> little: It is ſaid, that
+there is nothing ſweeter, eaſier, or more agreeable the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to declare ones Love: But for
+m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> part, I have not found
+any thing tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> cauſeth
+more pain, trouble, and confu<g ref="char:EOLhyphen"/>ſion. Three days are paſt, ſince th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Order, which I received, of
+telling you her name, whom I adore, make<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> me ſweat Blood and Water, and give<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> me a thouſand inquietudes, I do not even yet
+know, how to acquit my ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of it. Ah <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, how
+vexatious is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to be
+without Experience: But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> will
+tell you, that ſhe is the moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> charming that can be ſeen, that ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> hath all qualities
+neceſſary to render her moſt accompliſh't. In ſine, that ſhe
+reſembles you ſo much, that without being deceived, I could take you for
+her. This is enough, aſſiſt the Letter, and divine the reſt. I am ready
+t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> expound it in caſe of
+neceſſity.</hi>
+                  </p>
+                  <closer>
+                     <signed>Oronces.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="9" facs="tcp:59476:7"/>
+            <p>
+               <hi>Eugenia</hi> was full of Impatience, to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee after what manner, her
+lover would declare himſelf, when ſhe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceived that Billet; and as
+in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove, the moſt
+negligent Style is al<g ref="char:EOLhyphen"/>ways the moſt perſwaſive; ſo ſhe could not take
+ill that way of wri<g ref="char:EOLhyphen"/>ting, but ſhe was overjoyed, that that ſhe had an
+occaſion of anſwe<g ref="char:EOLhyphen"/>ring him upon that Subject, and of letting him know, that
+if he lo<g ref="char:EOLhyphen"/>ved her, ſhe had no Indifference for him. But alas, this was to
+preſcribe to themſelves bounds too cloſe; an Enterview tranſported them
+much farther, and three hours of enter<g ref="char:EOLhyphen"/>tainment put them in ſuch diſor<g ref="char:EOLhyphen"/>der,
+that they no longer kept any meaſures in their declarations, but diſcovered
+to one another, what they really reſented in their hearts. As ſoon as
+<hi>Oronces</hi> was arrived, he, with a Gallant aire, told <hi>Eugenia,</hi>
+alas Madam, I am come to know, whether I have ſufficiently perfor<g ref="char:EOLhyphen"/>med my
+Commiſſion, and whe<g ref="char:EOLhyphen"/>ther <pb n="10" facs="tcp:59476:8"/>my expreſſions be not ſo
+ob<g ref="char:EOLhyphen"/>ſcure, as to need an interpretation? You have done well, anſwered the
+Lady, in coming to explain your ſelf a little more clearly, for in truth I
+knew not, whom you meant, nor has your Letter made me any wiſer, than I was
+before. Oh Heaven! Replied <hi>Oronces,</hi> how full of diſſimulation are
+you, and what pleaſure do you take, to ſee a Young Lover before you, whom
+baſhfulneſs reſtrains from telling you, how much he loves you? At theſe
+words he caſt his Eyes to the ground, and then lift them up to
+<hi>Eugenia,</hi> with an aire, that might let her underſtand, what he felt
+in his Soule. She appeared a little ama<g ref="char:EOLhyphen"/>zed, and in a ſerious Tone ſaid to
+him, that ſhe was much obliged to him, but that ſhe plainly ſaw, that he
+intended to divert himſelf with her, and that ſhe had reaſon to take,
+what he had ſaid, rather for a Complement, then for a con<g ref="char:EOLhyphen"/>vincing 
+<pb n="11" facs="tcp:59476:8"/>Truth; as to the reſt, that
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e went a little too
+faſt. Ah Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am, continued
+he, great Paſſions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever
+goe ſlowly; they immediately p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oduce great Effects; and you
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught not to be ſurprized,
+that even <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the firſt
+minute, in which I ſaw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou, I became ſo Amorous of you,
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at it is now to no
+purpoſe to en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavour to
+diſſemble it, my Eyes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd all my Actions would diſcover,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat my Heart would fain
+conceal; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd this dumb
+Language would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ew it, as
+much as if I declared it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut
+aloud. You muſt then (perſu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he, with a ſigh, ſee the bottom
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f my heart, and I muſt
+tell you, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat there is not
+any thing in you, which charmes me not; that I have
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o other Ambition, then That
+of en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying you, and that
+your Will a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one ſhall
+hereafter Govern all my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions.</p>
+            <p>
+               <hi>Eugenia,</hi> during this diſcourſe, af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected a great deal of Modeſty,
+and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eemed much
+aſtoniſhed. As her <pb n="12" facs="tcp:59476:9"/>ſoul was agitated by the moſt
+vio<g ref="char:EOLhyphen"/>lent paſſion, that a fair object could inſpire, ſo her anſwer
+made appea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the confuſion
+of her Spirit, and le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Oronces</hi> know, that her heart wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no leſs wounded, than his. Then he uſed all the Arts, which a
+paſſio<g ref="char:EOLhyphen"/>nate young Spark is capable of, to aſſure his Conqueſt, and to
+benefi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf of the
+diſorder, which he had cauſed in his Miſtreſſes ſoul, he
+expreſſed his regards with ſo much languiſhing, he preſſed his
+ſighs to ſo much purpoſe, that he reduced that innocent thing, to be no
+longer able to defend her ſelf from a thouſand Complaiſances, which
+enflamed them yet more, and obliged theſe two hearts, who never had loved any
+thing before, to confeſs to one another, that they were taken.</p>
+            <p>Ah <hi>Oronces,</hi> ſaid <hi>Eugenia,</hi> after having
+received a kiſs from her Lover; do you believe, that we can be ſo happy as
+to love ſucceſsfully? The fear that I am in, that it can<g ref="char:EOLhyphen"/>not 
+<pb n="13" facs="tcp:59476:9"/>be, makes me already repre<g ref="char:EOLhyphen"/>ſent to my ſelf a thouſand
+Obſta<g ref="char:EOLhyphen"/>cles, which may oppoſe our Love, and fancy a number of Miſchances,
+which ill Fortune may expoſe us to.</p>
+            <p>We muſt not be ſo fearful, re<g ref="char:EOLhyphen"/>plied our Cavalier, we have
+cauſe rather to hope, than fear; for I dare tell you, that I am reſolv'd,
+to to neglect all Conſiderations what<g ref="char:EOLhyphen"/>ever, but thoſe of pleaſing you;
+and there is no difficulty, which I will not overcome, to attain and preſerve
+a Good, that I prefer before all the Treaſures in the World. Theſe words
+were followed by a thouſand kiſſes, and other favours, which altho' they
+were not incom<g ref="char:EOLhyphen"/>patible with virtue, yet were rather ſtollen, then freely
+granted. One embrace followed the other ſo cloſe<g ref="char:EOLhyphen"/>ly, that it ſeemed as if
+they deſig<g ref="char:EOLhyphen"/>ned to render them Eternal, and as if, finding nothing elſe
+grateful to their Hearts, they intended to live <pb n="14" facs="tcp:59476:10"/>only upon
+tenderneſs, ſighs, and af<g ref="char:EOLhyphen"/>fections.</p>
+            <p>In Effect, this life was very plea<g ref="char:EOLhyphen"/>ſant, its being was only in
+the moſt tender Amity, that ever had united two hearts, and its nouriſhment
+was ſeaſoned with the moſt inno<g ref="char:EOLhyphen"/>cent delights, that could charm an
+excellent Soul.</p>
+            <p>Our Lovers paſt ſome time, by favour of their great Youth, in
+this amiable tranquillity, for as much as that their Parents did believe, that
+an age, more advanced, would make them change their Sentiments; but they were
+deceived in that; for time, far from diminiſhing that Love, which they had
+entertain'd in their tender years, made it the ſtronger for their weakneſs,
+and rendered it incapable of receiving any alterati<g ref="char:EOLhyphen"/>on by inconſtancy.</p>
+            <p>Our Lovers, to make good uſe of this interval of Liberty,
+neg<g ref="char:EOLhyphen"/>lected nothing that could contri<g ref="char:EOLhyphen"/>bute to their Common ſatisfaction; 
+<pb n="15" facs="tcp:59476:10"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir
+viſits were no longer formal;
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r they hardly ever quitted
+each <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther; and they paſt
+whole days in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alking of the
+Exceſs of their paſſion;
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut in termes ſo tender,
+with re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards ſo
+languiſhing, and ſighs ſo
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>morous, that their
+behaviour had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een enough to
+raiſe Love, even <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the
+moſt unſenſible Heart.</p>
+            <p>There appeared fire, as well as
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anguiſhments, in theſe
+amorous Entertainments; they reſented no<g ref="char:EOLhyphen"/>thing but tenderneſs, and
+tranſ<g ref="char:EOLhyphen"/>ports, and their Careſſes were like thoſe of innocent Doves, who
+never are tired with their Courtſhip, and always find new Charmes in the
+tender Object of their Pleaſures.</p>
+            <p>The good Intelligence, which had always accompanied the agree<g ref="char:EOLhyphen"/>able
+moments of thoſe lovely young ones, was diſturbed to the quick by
+extraordinary Prohibitions, which they on either ſide received, to ſee one
+another any more. <hi>Oronces</hi> his Parents, perceiving that his
+aſſidui<g ref="char:EOLhyphen"/>ties <pb n="16" facs="tcp:59476:11"/>to <hi>Eugenia,</hi> might draw afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them ſuch Conſequences, as
+would oblige him to conſent to his mar<g ref="char:EOLhyphen"/>rying a Perſon, very rich indeed but
+whoſe Nobility was much in<g ref="char:EOLhyphen"/>feriour to his, puſhed on with Am<g ref="char:EOLhyphen"/>bition
+deſired to break the Courſe of theſe Amours, and, in order to it, at the
+ſame time, reſolved to ſend him out of the Province. On the other ſide,
+<hi>Eugenia's</hi> Mo<g ref="char:EOLhyphen"/>ther, being informed of what had paſt, and having
+learnt from her Daughters confeſſion, that without raillery ſhe loved the
+Governour<hi>'s</hi> Son, and was alſo beloved by him, ſhe reprehended her
+very ſeverely, for having ſo long ſuffered his vi<g ref="char:EOLhyphen"/>ſits; and told her,
+that ſhe had higher deſignes, than to engage her to a younger Brother, who
+never ſhould have any other Eſtate, but what Fortune, or the chance of War,
+could procure him; that ſhe ought to conſider; that ſhe was the only
+Child in the Family, and <pb n="17" facs="tcp:59476:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſhe eſteemed her Nobility as good as
+<hi>Oronces</hi> his Fathers, w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> was only conſiderable for Gover<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment.</p>
+            <p>One muſt have loved, equally with our Lovers, to conceive their
+Affliction; <hi>Oronces</hi> abandoned him<g ref="char:EOLhyphen"/>ſelf entirely to Sorrow; Murmurs
+and complaints came only from him, and he even called his Father in<g ref="char:EOLhyphen"/>humane, and
+aſſured him, that he took away his life, if he did not moderate thoſe
+rigorous Orders, which he had given him.</p>
+            <p>
+               <hi>Eugenia,</hi> for her part, was incon<g ref="char:EOLhyphen"/>ſolable, and being of
+a ſofter Sex paſt whole Nights in weeping, and breathing forth ſighs,
+able to ſoften Rocks, and change the Sentiments of any, tranſported with
+Motions more reaſonable, then thoſe of In<g ref="char:EOLhyphen"/>tereſt.</p>
+            <p>There wanted little of our Ca<g ref="char:EOLhyphen"/>valiers diſobeying his Father's
+com<g ref="char:EOLhyphen"/>mands, but having reflected on his ſevere humour, that never com<g ref="char:EOLhyphen"/>manded 
+<pb n="18" facs="tcp:59476:12"/>the ſame thing twice, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with impatience expected the fol<g ref="char:EOLhyphen"/>lowing Sunday,
+which only could give him an opportunity of ſeeing her at Church, whom he
+cheriſhed more than his own Eyes.</p>
+            <p>Although this was not directly againſt the Orders, which had
+been given him, yet it was not perfect<g ref="char:EOLhyphen"/>ly to obey them: And any other<g ref="char:punc">▪</g>
+leſs paſſionate, would have feare
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Father, who with
+difficulty ad<g ref="char:EOLhyphen"/>mitted of Excuſes; but his Spirit being quite filled with Love,
+there was no place left for Reflections of that nature, and he would have
+eſteemed himſelf over Scrupu<g ref="char:EOLhyphen"/>lous, had he demurred upon ſuch
+thoughts.</p>
+            <p>In the Morning he was happy enough, to find, as he propoſed,
+<hi>Eugenia</hi> at Church, buſy at her de<g ref="char:EOLhyphen"/>votions; he placed himſelf near
+her, and after a few words, he gave her a Letter ſealed, and told her, that
+it would inſtruct her farther: He <pb n="19" facs="tcp:59476:12"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as even raſh enough to make uſe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f that place, to authorize
+his paſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and made
+no difficulty to con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rme
+by Oath, and before the Altars,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is perſeverance in his
+Love to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er. He alſo
+received all Proteſta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of an Amity, anſwerable to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is, and after a thouſand
+amorous Glances, which they gave one ano<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor, they parted the moſt conten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the World.</p>
+            <p>Our Cavaliers Father, who knew
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y experience, what Love is,
+and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow hard it is, to
+deſtroy the firſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entiments, which that paſſion en<g ref="char:EOLhyphen"/>graves in a heart, reſolved
+to ſend his Son to the War, to the end that the employment of Armes, which
+requires a young man's whole
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pplication, might give him
+no lei<g ref="char:EOLhyphen"/>ſure to think of other things.</p>
+            <p>To diſpoſe him to receive theſe News, as he would have him,
+he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mplified it's
+advantages, he repre<g ref="char:EOLhyphen"/>ſented to him, that, Nobility, with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut that experience, was baſe,
+and <pb n="20" facs="tcp:59476:13"/>without Virtue, and nothing bein<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more charming than Glory, tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> exerciſes were not to be
+neglecte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherein it was to
+be found i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all its
+Splendor, and by which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might
+be eaſily acquired.</p>
+            <p>
+               <hi>Oronces</hi> underſtood well enoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Fathers deſigne: He had cou<g ref="char:EOLhyphen"/>rage, but he
+did not believe, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honour
+could give him pleaſure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+as ſolid as thoſe were, which Lov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had made him taſte: Therefore h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did his utmoſt indeavour, to turn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſide that blow, which he
+look't up<g ref="char:EOLhyphen"/>on as the moſt Fatal, that he could ever receive. But alas it was
+to n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpoſe, he muſt
+reſolve to part, and he received, as a favour, per<g ref="char:EOLhyphen"/>miſſion to bid his
+Miſtreſs adieu, whom apparently he was to quit for ever.</p>
+            <p>
+               <hi>Eugenia</hi>'s Parents, who never had any deſigne to give
+their Daughter to <hi>Oronces</hi> were overjoy'd to hear, that he was ſent
+away to the War, to the end that he might be other<g ref="char:EOLhyphen"/>wiſe <pb n="21" facs="tcp:59476:13"/>employed, then in making
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove: But the News created
+in <hi>Eugenia</hi> an inconceivable Melancho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y. The reading of the Letter, which
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had put into her hand,
+afflicted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er yet more, and
+but for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trength of
+Youth, ſhe had without doubt fallen ſick with ſorrow conceived at her
+Lovers depar<g ref="char:EOLhyphen"/>ture.</p>
+            <p>During theſe reſtleſs Moments, ſhe was advertiſed, that
+<hi>Oronces</hi> was come to take his leave of Her, and as he had received
+permiſſion from His, ſo her Parents likewiſe made no difficulty of
+granting, for her conſolation, this laſt enter<g ref="char:EOLhyphen"/>view.</p>
+            <p>It would be difficult to deſcribe here with what Meen, our new
+Warriour was received by his Dear <hi>Eugenia.</hi> Looks, Sighs, and Tears had
+as great a ſhare in their enter<g ref="char:EOLhyphen"/>tainment, as Words, and the ſweet overture
+of Hearts, made in that moment, gave them a ſenſe of plea<g ref="char:EOLhyphen"/>ſures, not to
+be expreſſed.</p>
+            <pb n="22" facs="tcp:59476:14"/>
+            <p>Ah my Dear <hi>Oronces,</hi> ſaid ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor afflicted Lady, how happy
+ſhould we be, if we were not op<g ref="char:EOLhyphen"/>poſed in our innocent Divertiſe<g ref="char:EOLhyphen"/>ments?
+But alaſs we muſt part and it may be never to ſee each other more. Ah,
+what will that ab<g ref="char:EOLhyphen"/>ſence make me ſuffer? What pains do I foreſee, I muſt
+endure? And what do I apprehend for your Per<g ref="char:EOLhyphen"/>ſon? Fear not, my Deareſt,
+re<g ref="char:EOLhyphen"/>plied <hi>Oronces,</hi> I am too much con<g ref="char:EOLhyphen"/>cerned to preſerve my ſelf,
+not to do it. And the thought only that I cannot deſtroy my ſelf, without
+loſing you at the ſame time, will reſtrain me in my moſt furious
+tranſports. As for the reſt, either of us are to our Comfort ſo much
+Maſters of our own wills, that in ſpight of all the World, we can love on,
+and, by our Conſtancy, weary out thoſe, who would pre<g ref="char:EOLhyphen"/>vent the ſucceſs
+of our Deſignes. As for me, continued he, in kiſſing her, I dare ſwear,
+that I will love <pb n="23" facs="tcp:59476:14"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou Eternally, that there is nothing,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat I will not ſurmount,
+to bring <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout our
+pretenſions, and that my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>deli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſhall
+be proof againſt the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ougheſt and moſt preſſing attaques.</p>
+            <p>Theſe words were followed by a
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houſand Proteſtations;
+on <hi>Eugenia</hi>'s part, her Eyes and Sighs confirmed
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll that was ſaid: ſhe
+was beſides <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſelf,
+and thought of no other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing, than the object of her Love, which ſhe ſaw before her;
+She ſunk <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>morouſly
+between his armes, and conjured him with languiſhing re<g ref="char:EOLhyphen"/>gards, to pity her
+weakneſs, and par<g ref="char:EOLhyphen"/>don the exceſs of her Paſſion, which tranſported
+her after that manner.</p>
+            <p>While our Lovers reſented theſe pleaſant Motions, and
+employed theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt
+Minutes, in tenderly expreſſing
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure Evidences of their
+Love, one advertiſed our Cavalier, that his people, were a horſe-back, and
+that his Equipage expected him at the Gate.</p>
+            <p>Ah now, he cried out, it is, that <pb n="24" facs="tcp:59476:15"/>we muſt
+part. He was not able to ſpeak one word more; but tender<g ref="char:EOLhyphen"/>ly embracing his
+Dear <hi>Eugenia,</hi> he mingled his tears with hers, and made appear, that
+his Love was ve<g ref="char:EOLhyphen"/>ry violent, ſince it made him guil<g ref="char:EOLhyphen"/>ty of ſo great a
+Weakneſs.</p>
+            <p>This departure put the Lady in the greateſt perplexity in the
+World, ſhe told her parents, that they would be the cauſe of her death;
+that ſhe could not live without him, whom they tore from her; and that one
+day, they would re<g ref="char:EOLhyphen"/>pent being averſe to an alliance, which could not be
+otherwiſe than advantageous, if they thoroughly conſidered it, that for the
+future they ſhould have little ſatisfaction from her perſon, and
+excepting the reſpect due to them, from which ſhe could not rationally
+diſpenſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with her
+ſelf, ſhe would have bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+little complaiſance, to anſwer thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wiſhes and deſires.</p>
+            <p>All theſe complaints were recei<g ref="char:EOLhyphen"/>ved <pb n="25" facs="tcp:59476:15"/>as they
+ought to be; that is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o
+ſay, there was more regard had to <hi>Eugenia</hi>'s weakneſs, than to
+termes, which ſhe made uſe of in her ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſſions: Her Parents did believe,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſomething was to be
+allowed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o her reſentment,
+and that abſen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would
+make her loſe the <hi>Idea</hi> of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, that cauſed all this
+diſorder. They put every thing in practice to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raw her out of the
+Melancholy, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he was in; they
+made her take all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anner of
+divertiſements, and by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew
+acquaintances, with whom they would engage her, they unprofi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ably endeavoured to reſtore
+her to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er former
+Humour.</p>
+            <p>They then perceived, that all
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings were to be referred
+to time, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that a
+Paſſion, ſo violent, could
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be cooled by Ordinary
+meanes. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Effect, ſhe by
+little and little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eemed to
+have loſt the Memory <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f
+her Lover; ſhe talked not of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, ſo frequently as
+before, and in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, it was
+believed, that ſhe had re<g ref="char:EOLhyphen"/>covered <pb n="26" facs="tcp:59476:16"/>her former liberty. But
+the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> appearances were
+deceitful, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though ſhe
+thought fit to compo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her
+outward behaviour after tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+manner, yet her heart was ſtill
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>qually wounded, and was
+not ſen<g ref="char:EOLhyphen"/>ſible to any Love, contrary to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faith, which ſhe had ſworne to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dear <hi>Oronces.</hi>
+            </p>
+            <p>There is uſually no better rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dy for Love, than Love it ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Therefore <hi>Eugenia</hi>'s
+Mother, name <hi>Laurentia,</hi> propoſed to her the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſigne, which ſhe had, of makin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by her means, an alliance with
+t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Family of
+<hi>Dorimont,</hi> who was a han<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſome and well behaved Gentlema<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and whoſe Nobility was ſupport<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a conſiderable Fortune,
+whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rendered him one of
+the Princi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> men in the
+Province. Therefo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhe
+was not to be ſurprized, t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhe had, in proſpect of her advanta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been croſt in her firſt inclinatio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which could not be
+reaſonable; ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they
+proceeded from a blind Paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without reaſon.</p>
+            <pb n="27" facs="tcp:59476:16"/>
+            <p>Although thoſe Propoſitions in<g ref="char:EOLhyphen"/>finitely diſpleaſed
+<hi>Eugenia,</hi> and that ſhe had no deſigne to obey them, yet, ſhe did
+not let that appear preſently; but contented her ſelf with anſwering,
+that ſhe no longer had any ſenſibility for Love, and that ſhe did
+believe, no Lover could ſigh for her with ſucceſs; however to ſa<g ref="char:EOLhyphen"/>tisfie
+Her, ſhe would receive his Viſits, whom ſhe ſpake of, and if ſhe
+fore<g ref="char:EOLhyphen"/>ſaw, ſhe could live happily with him, ſhe would not oppoſe his
+good fortune.</p>
+            <p>Though that anſwer was ſuffici<g ref="char:EOLhyphen"/>ent to let them know, what the
+Faire one's Sentiments were: Yet they perſwaded themſelves, that ſo witty
+a Lover, as <hi>Dorimont,</hi> could manage her ſpirit, and by his Dili<g ref="char:EOLhyphen"/>gence
+and Aſſiduities, blot out the firſt impreſſions, which love had
+engraved in her heart. But alas, how difficult is it to deface ſtroaks, ſo
+deeply cut, and extinguiſh fires,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat draw their
+nouriſhment from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur
+Inclination? This new Cavalier <pb n="28" facs="tcp:59476:17"/>had much merit; but he
+ſucceeded another, which had yet more.</p>
+            <p>He then began to ſhew his love for her, by all the
+complaiſances ima<g ref="char:EOLhyphen"/>ginable; he deſired nothing, but what pleaſed her, and
+did nothing but what he believed agreeable to her Humour. She on the contrary
+anſwered all this, with civilities which denoted only her indifference and
+were enough to let this poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Lover underſtand, that he laboure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in vain, and that all his preſents his
+<hi>Promenades,</hi> and this <hi>Regale</hi> would be more ſucceſsful,
+beſtowe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on ſome other
+Miſtreſs. He ſighe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+but his ſighs touched not Her, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> languiſhing ſeemed to Her, affected and all his Gallantries
+loathſome<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and improper;
+in a word, even t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beſt
+thing, he did, offended Her, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhe wiſhed for nothing more, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be freed from theſe Viſits, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> were already become
+inſupporta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> torments to
+her.</p>
+            <p>This unhappy Lover made <pb n="29" facs="tcp:59476:17"/>Courting in vain. He
+could obtain no love, and his perſeverance was fol<g ref="char:EOLhyphen"/>lowed only by a
+ſtubbornneſs, which he found invincible in <hi>Eugenia,</hi> ne<g ref="char:EOLhyphen"/>ver to love
+any thing, but her Dear <hi>Oronces.</hi>
+            </p>
+            <p>When he knew perfectly, that there was nothing to be done, and
+that the Fair one could never be reduced to favour him, he thought of a
+retreat, and acquainted <hi>Euge<g ref="char:EOLhyphen"/>nia's</hi> Parents, with the little
+ſucceſs of his enterpriſe, and his deſigne of leaving her.</p>
+            <p>Then it was that the Combat grew rough, and that
+<hi>Laurentia,</hi> to little purpoſe making uſe of a Mo<g ref="char:EOLhyphen"/>thers Authority,
+would force her Daughter, to doe that, thorough O<g ref="char:EOLhyphen"/>bedience, which ſhe would
+not do by Inclination; and knowing, that ſhe had a great averſion for a
+<hi>Cloy<g ref="char:EOLhyphen"/>ſter,</hi> ſhe threatned to ſhut her up in one, if ſhe
+perſiſted in her ſtubborn<g ref="char:EOLhyphen"/>neſs. But all theſe frights were
+un<g ref="char:EOLhyphen"/>uſeful, and <hi>Eugenia</hi> proteſted, that <pb n="30" facs="tcp:59476:18"/>though
+ſhe had a great Antipathy for a Monaſtick life, yet ſhe would embrace it,
+rather than do any thing contrary to the Faith given her Lover, that all
+theſe falſe Alarms ſhould work no effect upon her, and that the only way
+to retain her in the world, was not to per<g ref="char:EOLhyphen"/>plex her in an Honourable Love,
+which might prove Glorious to her Family: That in all other things, ſhe would
+have for her Mother all the reſpect poſſible; but in an af<g ref="char:EOLhyphen"/>faire, that
+concerned the Liberty of her Perſon, ſhe deſired, that ſhe might not be
+made unhappy, by any evil engagement.</p>
+            <p>
+               <hi>Laurentia</hi> ſaid to her, all that an<g ref="char:EOLhyphen"/>ger could inſpire
+a provoked Mo<g ref="char:EOLhyphen"/>ther: She threatned her with the loſs of her Favour, and gave
+her only one whole Week to reſolve upon the choice, either of a
+<hi>Cloyſter,</hi> or of Him, whom ſhe had propoſed to her for an
+Husband. That afflicted Mother had no real deſigne of for<g ref="char:EOLhyphen"/>cing 
+<pb n="31" facs="tcp:59476:18"/>her to quit the World, ſhe was
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather entirely averſe to
+it; but ſhe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lattered her
+ſelf, that the only means to be obeyed, was to act after that manner, and
+that ſhe would ſooner make choice of a Marriage with <hi>Dorimont,</hi>
+than of a Voluntary con<g ref="char:EOLhyphen"/>finement in a place, which ſhe could never approve
+of.</p>
+            <p>While theſe affairs paſt thus, <hi>O<g ref="char:EOLhyphen"/>ronces</hi> had an
+Employment in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> conformable to his Age and Birth, he
+acquitted himſelf of it, with the approbation of all thoſe who knew him,
+and they admired that courage, which he made appear in the moſt dangerous
+aſſaults, and which accompliſht the moſt difficult Enterpriſes.
+Whatever diverſions theſe Exerciſes might give his ſpi<g ref="char:EOLhyphen"/>rit, yet he
+could not loſe the me<g ref="char:EOLhyphen"/>mory of his Dear Miſtreſs. He thought of her night
+and day, and the exceſs of his Paſſion made him long for a Peace, ſo
+that there might be a poſſibility of his enjoying her, <pb n="32" facs="tcp:59476:19"/>whom he loved, more then his life.</p>
+            <p>As ſoon as the time, given <hi>Euge<g ref="char:EOLhyphen"/>nia</hi> to determine her
+choice, was ex<g ref="char:EOLhyphen"/>pired. <hi>Laurentia</hi> would have he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> openly declare, which of the Two propoſed to
+her, was the leaſt diſ<g ref="char:EOLhyphen"/>agreeable. She, having had leiſure to think
+thereon, told her Mother that ſhe had not changed her Opi<g ref="char:EOLhyphen"/>nion, that the
+Affection, which ſhe had for <hi>Oronces,</hi> was not at all di<g ref="char:EOLhyphen"/>miniſhed;
+and, that ſhe might no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+fail in the fidelity due to him, ſhe had rather enter into a
+<hi>Cloyſter,</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it
+muſt be abſolutely ſo, than give her Heart to another, in prejudice of
+her true Lover.</p>
+            <p>
+               <hi>Laurentia,</hi> who was enraged a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe words, told her, that ſhe might then
+prepare her ſelf, for that ſhe her ſelf would conduct her to the place,
+where perhaps ſhe ſhould, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her own expences, learne, how miſchievous are the conſequences
+o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch a Diſobedience.
+<hi>Eugenia</hi> mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no
+other anſwer, but that ſhe be<g ref="char:EOLhyphen"/>lieved, <pb n="33" facs="tcp:59476:19"/>they could not in
+Conſci<g ref="char:EOLhyphen"/>ence engage a Free perſon, to a Courſe of life, for which ſhe
+had a Repugnance; but that ſhe hoped, ſhe might one day take advantage from
+the Conſtraint, which ſhe re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>All this was alledged in vain, ſhe muſt enter into Religion,
+and hide from the Eyes of men a Beauty, which ſeemed not to be created with
+ſo much perfection, to be En<g ref="char:EOLhyphen"/>cloſed. <hi>Laurentia</hi> and
+<hi>Eugenia</hi> diſ<g ref="char:EOLhyphen"/>ſembled the true cauſe of this Re<g ref="char:EOLhyphen"/>treat, and gave
+out, that it was only for a Tryal, whether her Voca<g ref="char:EOLhyphen"/>tion was not there, or if
+Heaven would call her otherwiſe.</p>
+            <p>All the Religious admired with aſtoniſhment ſo ſudden a
+change, and were yet much more ſurprized, when they ſaw that it was real,
+and that <hi>Eugenia</hi> did earneſtly demand the favour, of being received
+into the number of <hi>Novices,</hi> and that they would grant her the habit of
+the Religion.</p>
+            <pb n="34" facs="tcp:59476:20"/>
+            <p>She had not any real deſigne to engage her ſelf; but did this,
+only to make her Mother believe, that no other return was to be expect<g ref="char:EOLhyphen"/>ted from
+her, nor any thing elſe to be hoped for; for, unleſs ſhe ſhould be
+replaced in her former liberty, ſhe would perhaps loſe it forever, by
+Profeſſing in that houſe.</p>
+            <p>Her Solicitations were ſo earneſt, and her fervour ſo
+ſurprizing, that the Superiour inveſted her in the habit of the Religion,
+and believed that ſhe could not, without oppo<g ref="char:EOLhyphen"/>ſing the will of Heaven,
+refuſe it to the extraordinary Zeal of the Demandant. This young
+<hi>Novice</hi> made a Friend-ſhip with the whole Convent: She was Fair, like
+an An<g ref="char:EOLhyphen"/>gel, and her voice, which, as I have already told you, was charming,
+raviſhed the hearts of her Compani<g ref="char:EOLhyphen"/>ons, when her Office obliged her to
+ſing.</p>
+            <p>
+               <hi>Laurentia,</hi> who knew well e<g ref="char:EOLhyphen"/>nough, what averſion ſhe
+had for a <pb n="35" facs="tcp:59476:20"/>Monaſtery, did believe all theſe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utward appearances of
+Devotion <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere falſe, and
+counterfeit, in which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertainly ſhe was not miſtaken;
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <hi>Eugenia</hi> thought
+of nothing leſs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen of
+engaging her ſelf by any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, but ſhe was perſwaded, that what ſhe did, would convince
+her Mother, that ſhe was not at all diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſed to follow her will, and that
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he would ſooner make
+choice of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Monaſtick life,
+then ſuffer con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>traint in
+an affaire, which, as ſhe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udged, ought to be entirely free.</p>
+            <p>There was nothing more agree<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, then to conſider <hi>Eugenia</hi> in
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his new habit; her Eyes,
+half hid under the obſcurity of her veile,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt Flames, which
+penetrated the hearts of thoſe, that beheld her. She performed all her
+Exerciſes with ſo much Grace, and with ſuch Eaſe, that ſhe ſeemed
+never to have lived out of a <hi>Cloyſter,</hi> and all her beha<g ref="char:EOLhyphen"/>viour was
+ſo winning, that, were the things ſhe ſaid never ſo indiffe<g ref="char:EOLhyphen"/>rent, 
+<pb n="36" facs="tcp:59476:21"/>ſhe gained the Affections of thoſe, that converſed
+with her.</p>
+            <p>In the mean time, her Mother, who ſaw no change in her
+Daugh<g ref="char:EOLhyphen"/>ter, informed the Superiour of all that paſt, and knowing that the
+Religious have a wonderful addreſs in the managing our Spirits, ſhe
+intreated her aſſiſtance, to reduce <hi>Eugenia</hi> to the Obedience,
+due un<g ref="char:EOLhyphen"/>to Her; and alſo, that ſhe would not be ungrateful for her cares
+there<g ref="char:EOLhyphen"/>in, eſpecially if they produced ſome happy ſucceſs.</p>
+            <p>But the <hi>Nun</hi> was too much in<g ref="char:EOLhyphen"/>tereſſed, to declare this
+to her <hi>No<g ref="char:EOLhyphen"/>vice.</hi> She therefore concealed from her, all that
+<hi>Laurentia</hi> had informed her of, and applied her ſelf only, to encline
+her to make Profeſſion, when time ſhould come.</p>
+            <p>She had already borne the ha<g ref="char:EOLhyphen"/>bit of <hi>Novice</hi> ten Months,
+when her Lover, who knew nothing of all this, writ to her from
+<hi>Flanders,</hi> where having found no particular <pb n="37" facs="tcp:59476:21"/>opportunity to ſend his Letter, he committed it to the Hazard of the
+Poſt, not mentioning any thing in it, which was unknown to her Pa<g ref="char:EOLhyphen"/>rents, or
+that might be prejudicial to Her. It was in theſe terms.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>MEthinks, my Dear</hi> Eugenia, <hi>that it is an Age,
+ſince I par<g ref="char:EOLhyphen"/>ted from you, nevertheleſs I faile not to poſſeſs you;
+for Night and Day you are preſent in my mind. Thoſe, who did believe
+abſence would be a remedy for my Love, are much miſta<g ref="char:EOLhyphen"/>ken; for ſince I
+parted from you, I fancy, that I love you as much more, and that my Ardour
+gathers force from my Exile. I am every day ex<g ref="char:EOLhyphen"/>poſed here to a thouſand
+Perils; but that God, that made us love, takes care of my Perſon, and
+preſerves it in the midſt of dangers. All my Friends here are ſurprized
+at my way of living: they call me Solitary, and Hermit, and ſay, that I do
+not know what Gal<g ref="char:EOLhyphen"/>lantry meanes, ſince that no Miſtreſs 
+<pb n="38" facs="tcp:59476:22"/>could as yet make me put it in pra<g ref="char:EOLhyphen"/>ctiſe; but I excuſe
+them, becauſe they know not, that thoſe, who are baniſht from what they
+love, take little care to gain Hearts, and that I have need of all mine, to
+ſupport the aſſaults of our ill Fortune. Adieu Dear Heart, Comfort your
+ſelf, and believe that we ſhall one day be happy.</hi>
+                  </p>
+                  <closer>
+                     <signed>Oronces.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Letter was directed upon the cover to a Chamber-maid, now
+gone away, and by that accident fell into <hi>Laurentia's</hi> hand, who
+having, out of Curioſity, read it, conceived a thouſand Malicious deſigns
+of uſing it for her advantage.</p>
+            <p>When ſhe had for ſome time me<g ref="char:EOLhyphen"/>ditated, wherein it might be
+uſeful unto her; the News of the Battel of <hi>Seneff,</hi> gave her an
+opportunity, of executing an Artifice, which might in probability have drawne
+after it an effect, conformable to what ſhe could deſire, from her
+Daughter.</p>
+            <pb n="39" facs="tcp:59476:22"/>
+            <p>To bring her enterprize more ſucceſsfully about, ſhe
+endeavoured <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o counterfeit
+the writing of the ſurprized Billet, and, in few days, became ſo skilful in
+that deceit, that the one could hardly be diſ<g ref="char:EOLhyphen"/>cerned from the other.</p>
+            <p>To the end, that nothing might be wanting to her Stratagem, ſhe
+cauſed a Seale to be cut, like <hi>Oron<g ref="char:EOLhyphen"/>ces</hi>'s, and counterfeited the
+follow<g ref="char:EOLhyphen"/>ing Letter, to be ſent to our fair <hi>Recluſe.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>I Can no more, my dear</hi> Eugenia, <hi>I am wounded even
+to death in the Battel of</hi> Seneff. <hi>The Surgeon, who hath care of me, is
+Ordered by me, to write unto you more at large. A<g ref="char:EOLhyphen"/>dieu, my heart fails me: I
+can ſay no more, unleſs it be, that I ſhould have died contented, if it
+had been in her ſervice, whom I will love even to the laſt Minute. Have
+compaſſion upon the unfortunate</hi>
+                  </p>
+                  <closer>
+                     <signed>Oronces. </signed> 
+                     <hi>Adieu.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="40" facs="tcp:59476:23"/>
+            <p>This was accompanied by a ſuppo<g ref="char:EOLhyphen"/>ſed Letter from a Chirurgeon,
+which was filled with all the Circumſtan<g ref="char:EOLhyphen"/>ces of the Fight, and the nature of
+his wounds; it ſhew'd, how he had expired three Hours, after he had writ the
+Billet, and how he had re<g ref="char:EOLhyphen"/>ceived Commiſſion to ſend it to Her, to whom it
+was directed.</p>
+            <p>
+               <hi>Laurentia</hi> doubted not, but that this Artifice would
+ſucceed to her advantage, and that her Daughter, ſeeing her ſelf
+diſengaged by her Lovers death, from all Proteſtations made to him, would
+make no diffi<g ref="char:EOLhyphen"/>culty of accepting, whom ſhe de<g ref="char:EOLhyphen"/>ſired and giving her heart to
+ſe<g ref="char:EOLhyphen"/>cond Affections; but alaſs, that poor Mother had the diſpleaſure of
+ſeeing all her Projects without ſucceſs, and this innocent deceit had no
+other conſequence, than her loſs by the very meanes, that were intended for
+her preſervation.</p>
+            <p>The time of <hi>Eugenia's</hi> Profeſſion approacht, when
+ſhe received the <pb n="41" facs="tcp:59476:23"/>Letter and Billet ſpoken of. She had
+no ſooner read them, but ſhe fell into a Swoone, and made thoſe, who were
+preſent, take notice, that ſhe had not intirely quit all world<g ref="char:EOLhyphen"/>ly
+Inclinations, by entring into a <hi>Cloyſter.</hi> She was ſo readily
+relie<g ref="char:EOLhyphen"/>ved, that ſhe ſoon came to her<g ref="char:EOLhyphen"/>ſelf again, but it was only to
+aban<g ref="char:EOLhyphen"/>don her ſelf to tears and ſadneſs, and to deplore his death, who was
+ſtill alive.</p>
+            <p>In this deplorable Eſtate, ſhe raiſed the compaſſion of
+all her Com<g ref="char:EOLhyphen"/>panions, they heard, with a great deal of feeling, all the
+complaints, that proceeded from the heart, but they were not able to comfort
+her in that extream ſorrow. This News made ſuch a diſorder in her minde,
+that ſhe remained for ſome time as it were ſenſleſs, and then it was,
+that ſhe reſolved not to part from the place, where ſhe was, but to bid
+Adieu to the World, ſince it had now nothing in it, that <pb n="42" facs="tcp:59476:24"/>ſhe ought to Love; and to carry all her life, under the habit of a
+Cloyſter, the Mourning, which ſhe owed her Lovers Memory.</p>
+            <p>The Superiour of the Monaſtery made uſe of that vexatious
+minute, to ſpeak to her <hi>Novice</hi> of her Vows. She told her with a mild
+and en<g ref="char:EOLhyphen"/>gaging Aire, that ſhe ſhared very much in her Affliction, and that
+ſhe did not blame the Tears, given to the remembrance of an Honourable amity,
+which ſhe had had for the Perſon whom ſhe lamented; but that ſhe ought,
+after having con<g ref="char:EOLhyphen"/>ſidered that accident with the Eyes of the Body, regard it
+alſo with the Eyes of the Spirit, and think, that it was only a blow from
+God, who intended, by that means to withdraw her from the World, and make her
+one of his Chaſt Eſpou<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>Our <hi>Eugenia,</hi> having already ta<g ref="char:EOLhyphen"/>ken that reſolution in
+her ſelf, an<g ref="char:EOLhyphen"/>ſwered the Venerable Dame, that <pb n="43" facs="tcp:59476:24"/>ſhe had
+no other thoughts, that ſhe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed with all her heart,
+that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me were already
+expired; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſhe
+could do nothing with grea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er joy, then augment the number
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f ſo holy a Company.
+Moreover, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he deſired her,
+not to acquaint her Parents, with the weakneſs, which
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad appeared in her, and
+altogether, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o conceal from
+them the Exceſs of her grief, becauſe then they could have no pretence to
+oppoſe her good fortune; but would be obli<g ref="char:EOLhyphen"/>ged to give their conſent to her
+en<g ref="char:EOLhyphen"/>gagement, which otherwiſe they would have right to deny, if they might
+have place to believe, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was more through a Humane, than Supernatural motive.</p>
+            <p>In the mean time, <hi>Laurentia,</hi> being impatient to know the
+ſuc<g ref="char:EOLhyphen"/>ceſs of her Stratagem, went to the Superiour to be informed of it, and
+to bring <hi>Eugenia</hi> back along with her, not thinking to find any more
+reſiſtance; but all that ſhe learned <pb n="44" facs="tcp:59476:25"/>from her, was,
+that her daughte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had been
+received by the whol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Convent, that ſhe had had all thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Voices, and that ſhe ſeriouſly prepa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>red her ſelf by a holy Retreat, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make her Vows. the week
+following Moreover, that ſhe had, with admi<g ref="char:EOLhyphen"/>ration, ſeen the indifferency,
+which appeared at her reading the News which, according to the world, ſhould
+moſt ſenſibly have touched her that ſhe was a Girle of Prayer and of
+great Virtue, and that he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Spirit had no other Conductor, than God.</p>
+            <p>This diſcourſe ſurprized the poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mother the more, in that ſhe
+ex<g ref="char:EOLhyphen"/>pected nothing leſs from a Perſon whom ſhe had made a Confident of her
+Deſignes; and whom, ſhe did believe, ſhe had engaged to her ſide. She
+expreſſed her aſto<g ref="char:EOLhyphen"/>niſhment, and declared to her, that ſhe would be
+Miſtreſs of her own Daughter, that ſhe ſhould not make any
+Profeſſion without her conſent, <pb n="45" facs="tcp:59476:25"/>and that ſhe would
+disinherit her, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f ſhe
+would any way oppoſe her will.</p>
+            <p>The Superiour made anſwer, that ſhe had ſeen in
+<hi>Eugenia</hi> ſo great a diſpoſition to the life, ſhe would
+em<g ref="char:EOLhyphen"/>brace, that ſhe thought it impoſſible to diſſwade her from it,
+without oppoſing the Ordinance of Heaven; that ſhe had no other Proſpect,
+and that Human Intereſt had the leaſt ſhare in it. This ſaid, ſhe
+took leave of <hi>Laurentia,</hi> and called her Daugh<g ref="char:EOLhyphen"/>ter to her, whom ſhe
+left alone in her Company.</p>
+            <p>The Afflicted Mother was quite tranſported at the ſight of
+<hi>Eugenia,</hi> and with tears asked her, if it was true, that ſhe would
+continue in that Monaſtery? If ſhe did, that it was the way to kill her
+with diſplea<g ref="char:EOLhyphen"/>ſure, and that ſhe ought to conſi<g ref="char:EOLhyphen"/>der the great
+obligation, which ſhe owed her. She uſed the ſtrongeſt Arguments, that
+tenderneſs could in<g ref="char:EOLhyphen"/>ſpire her with, to move the heart <pb n="46" facs="tcp:59476:26"/>of that Rebel (it was ſo<g ref="char:punc">▪</g> that ſhe called her) but it was
+without effect and all that ſhe could get from her was, that it was by her
+Order only, that ſhe entered that place. That ſhe was reſolved never to
+quit it, and that ſhe deſired to make her Vows only, that ſhe might not
+be far from her Vocation. Theſe words ſo contrary to her Mothers wiſhes
+were followed by a thouſand Me<g ref="char:EOLhyphen"/>naces, and made <hi>Laurentia</hi>
+under<g ref="char:EOLhyphen"/>ſtand, that we often hazard the loſs of all, when we would gain too
+much.</p>
+            <p>Then ſhe retired very much diſ<g ref="char:EOLhyphen"/>contented, and went to take
+coun<g ref="char:EOLhyphen"/>ſel of the Learned, how ſhe might bring about her enterpriſe. They
+repreſented to her, that ſhe had no great cauſe to be troubled; for the
+Religious never do any thing for nothing, and that ſhe need only give her
+Daughter no Portion, in<g ref="char:EOLhyphen"/>fallibly to prevent her Profeſſing.</p>
+            <p>This Proceeding was indeed the <pb n="47" facs="tcp:59476:26"/>beſt,
+according to the Ordinary Rules; but she good qualities of the <hi>Novice,</hi>
+together with a conſiderable ſum of Money, which her kin<g ref="char:EOLhyphen"/>dred, who, by her
+engagement, would become Heirs to her Eſtate, underhand gave, did break all
+theſe juſt meaſures: They prevailed a<g ref="char:EOLhyphen"/>bove all other conſiderations,
+and <hi>Eugenia</hi> Profeſt after the accuſtomed manner.</p>
+            <p>While theſe things paſt, Our <hi>Ca<g ref="char:EOLhyphen"/>valier</hi> began to be
+tired with the War: He an hundred times a day called to his mind the amiable
+qua<g ref="char:EOLhyphen"/>lities of his Miſtreſs: He remembe<g ref="char:EOLhyphen"/>red all the Amorous favours, which
+he had received, and in that agree<g ref="char:EOLhyphen"/>able contemplation, he almoſt died with a
+deſire, of ſeeing her again. Whilſt he thus ſighed, they brought him a
+Letter which, after reading, almoſt drove him to deſpair. One of his
+Friends acquainted him, that the report of his Death was every where ſpread
+abroad, that <hi>Eugenia,</hi> 
+               <pb n="48" facs="tcp:59476:27"/>to avoid conſtraint from
+her Relati<g ref="char:EOLhyphen"/>ons, who would force her to mar<g ref="char:EOLhyphen"/>ry <hi>Dorimont,</hi> had embraced
+Re<g ref="char:EOLhyphen"/>ligion, and had made her Vows, and that it were proper, he ſhould write
+himſelf, to let her underſtand of his being in health, leaſt they might
+pre<g ref="char:EOLhyphen"/>vail by the falſeneſs of the firſt News, which they had Publiſhed
+of him.</p>
+            <p>I leave you to Judge the exceſs of grief, which touched the
+heart of our Lover, when he underſtood, that he had loſt his Miſtreſs.
+He could not imagine, that ſhe ought to fly to that Extremity, for any
+reaſon what<g ref="char:EOLhyphen"/>ſoever. Nevertheleſs he could not be perſwaded, that ſhe
+wanted fide<g ref="char:EOLhyphen"/>lity to him. In this perplexity he thought it neceſſary to have
+ſome clearing of the Matter, before he declared her Guilty: Wherefore he writ
+to her the following Letter which he gave a Gentleman, one o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Friends, who was to be the
+Bea<g ref="char:EOLhyphen"/>rer.</p>
+            <pb n="49" facs="tcp:59476:27"/>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>IS it poſſible, fair</hi> Eugenia, <hi>that the news
+which I hear, of your entring a</hi> Cloyſter, <hi>and Profeſſing,
+ſhould be true: I am told, that it was to avoid</hi> Dorimont; <hi>but then,
+you ſhould have preſerved your ſelf for</hi> Oronces. <hi>I can<g ref="char:EOLhyphen"/>not
+diſſemble with you, I know not what Opinion, I ought to have of all this,
+and whether, I ſhould regard you, as a Perſon inſenſible, who pleaſe
+your ſelf at the misfortunes of others, or as a weak inconſtant creature,
+paſſi<g ref="char:EOLhyphen"/>onated for ſome trifles of Devotion, who love every thing, that you
+ſee, who forget that which is no longer in ſight, and give up your Heart,
+to eve<g ref="char:EOLhyphen"/>ry one, that demands it. I know very well, that abſence is a dangerous
+thing, but alas! if I were abſent, it was for loving you, you know that my
+paſſion was Innocent, and Pure, you ſhould not then have rendered it
+Criminal, by infidelity, while on my ſide, I render it Illuſtrious by an
+inviolable conſtan<g ref="char:EOLhyphen"/>cy; acquaint me, as ſoon as poſſible, if 
+<pb n="50" facs="tcp:59476:28"/>my complaints are unjuſt, and deliver from his Pain, the
+unfortunate</hi>
+                  </p>
+                  <closer>
+                     <signed>Oronces.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Letter, was put into her own hand, by the Gentleman, we
+mentioned; it produced, in the Soul of our young Profeſt, very very different
+Motions, for ſhe was equally toucht with Grief, and Joy, and in that moment,
+perceived the Reliques of the Fire, to rekindle in Her, which were almoſt
+extinguiſh't.</p>
+            <p>If her Joy was great, to under<g ref="char:EOLhyphen"/>ſtand, that He, whom ſhe loved,
+was living, ſhe conceived no leſs diſplea<g ref="char:EOLhyphen"/>ſure, to ſee her ſelf
+tied, and bound, and, according to all appearance, a Captive for the reſt of
+her days; that Reflection cauſed in her, an extream Melancholly, and raiſed
+troubles in her Spirit, which tormented her to the Quick.</p>
+            <p>She endeavoured to get out of that confuſion, and to enjoy her
+former tranquillity, by overcoming <pb n="51" facs="tcp:59476:28"/>her Nature, and
+maſtring her Incli<g ref="char:EOLhyphen"/>nation for her Lover; She believed, that Meditation, and
+the Devout Con<g ref="char:EOLhyphen"/>templation of ſeveral Pious Myſte<g ref="char:EOLhyphen"/>ries, and the exerciſe
+of a ſevere Virtue, might take her off from theſe Sentiments of the World,
+and Ter<g ref="char:EOLhyphen"/>reſtial thoughts, by approaching Hea<g ref="char:EOLhyphen"/>ven. She therefore made a Tryal
+of this for ſome days, but it was with<g ref="char:EOLhyphen"/>out any profit. Devotion was to her,
+an Inſipid Dainty, which ſhe could not at all Reliſh. She in vain forbid
+Love an entrance into her heart,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo conſtantly crept
+in, and made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> greater ravage
+then before. He cau<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a
+thouſand diſtractions in her
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt fervent prayers: He
+malici<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly led her into
+all Places, where <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Lover
+had been. He obliged her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o
+ſtop in the place, where he had
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iven her a thouſand
+Kiſſes, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here ſhe
+had received a thouſand Careſſes, and where he had aſſured
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of his Conſtancy. In
+fine, he o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercame, and
+conſtrained her to yield <pb n="52" facs="tcp:59476:29"/>and ſtill to nouriſh in her
+Soul, the ſame Paſſion, which had made her ſigh ſo often
+heretofore.</p>
+            <p>
+               <hi>Eugenia,</hi> then finding her ſelf too weak to reſiſt
+this little God, that attacked her, abandoned her ſelf en<g ref="char:EOLhyphen"/>tirely to his
+conduct, and writ to <hi>Oronces</hi> the moſt paſſionate Letter, that
+her <hi>Genius</hi> could dictate; ſhe informed him of her Mothers de<g ref="char:EOLhyphen"/>ceit,
+and conjured him to ſeek ſome remedy, for an evil, that in its ſelf
+ſeemed irrecoverable, that ſhe was altogether His; and that Love of him
+only had obliged her to embrace the Condition, wherein ſhe ſaw her ſelf
+unhappily engaged.</p>
+            <p>I leave you to judge, how this Letter was received by our young
+Lover; without reflecting upon his Miſtreſſes condition, he was
+exceſſiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> glad to hear,
+that ſhe had been faith<g ref="char:EOLhyphen"/>ful to him, and that He only wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beloved; and tho' there was n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſe for it, yet he
+flattered himſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the
+hope of ſome good fortun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <pb n="53" facs="tcp:59476:29"/>whereof the thought only tranſpor<g ref="char:EOLhyphen"/>ted him wih Pleaſure:
+Nevertheleſs, this Extaſie, being ill grounded, continued not long: it gave
+place to more ſerious conſiderations, and was followed by an extraordinary
+Melancholly, which repreſented to him, that the loſs of <hi>Eugenia</hi>
+was without recovery, and that it was impoſſible to repair it.</p>
+            <p>While this inquietude afflicted his mind, he wholy applied
+himſelf to find out means of getting <hi>Eugenia</hi> into his
+poſſeſſion; He preſently thought of ſtealing her away, which would
+have been without doubt ea<g ref="char:EOLhyphen"/>ſy, ſince ſhe, without any great dif<g ref="char:EOLhyphen"/>ficulty,
+would have conſented to it; but many conſiderations diſſwaded him from
+it; and made him reject that Expedient, for fear of not being able to make
+uſe of it, but with prejudice to his Miſtreſs.</p>
+            <p>At length after much conſidera<g ref="char:EOLhyphen"/>tion, Love inſpired him with an
+Arti<g ref="char:EOLhyphen"/>fice, which at the ſame time, was the <pb n="54" facs="tcp:59476:30"/>moſt
+pleaſant, and moſt raſh in the World.</p>
+            <p>He underſtood, that a young Gentleman, one of his intimate
+Friends, called <hi>Camillus,</hi> had made a cloſe Familiarity with a young
+<hi>Nun</hi> of that Country, who had con<g ref="char:EOLhyphen"/>ceived for him ſo great an
+affection, that ſhe would have followed him all the World over: her name was
+<hi>Aurelia.</hi>
+            </p>
+            <p>
+               <hi>Oronces</hi> made a confidence to this Cavalier of his ancient
+Paſſion for a Miſtreſs, who by a Mothers Stra<g ref="char:EOLhyphen"/>tagem was blindly ſhut
+up in a <hi>Cloy<g ref="char:EOLhyphen"/>ſter</hi> for the reſt of her days; he in<g ref="char:EOLhyphen"/>treated him to
+ſerve him, in that affaire, from which he himſelf could draw nothing, but
+advantage.</p>
+            <p>Then he propoſed to him his de<g ref="char:EOLhyphen"/>ſigne, and told him, that to
+bring it ſuccesfully about, he muſt obtain leave, for ſiſter
+<hi>Aurelia</hi> to change her Convent, ſo that ſhe might go and remain in
+that, where <hi>Eugenia</hi> was, and that if this could be done, as it 
+<pb n="55" facs="tcp:59476:30"/>was apparently poſſible, they Two ſhould be the
+moſt happy Lovers, that ever were in the World.</p>
+            <p>
+               <hi>Camillus</hi> became of his Friends o<g ref="char:EOLhyphen"/>pinion, and told him,
+that he would ſpeak of it to his Miſtreſs, without whom nothing could be
+performed. But alas! how weak is a young heart, when it ſuffers it ſelf to
+be conducted by Love.</p>
+            <p>
+               <hi>Aurelia,</hi> far from examining, with the Scruple, which
+ſhe ought, the Propoſition made to her, immedi<g ref="char:EOLhyphen"/>ately conſented unto it,
+and appro<g ref="char:EOLhyphen"/>ved of the project; admiring, that <hi>Oronces,</hi> in ſo tender
+an age, ſhould be capable of imagining ſo witty a contrivance.</p>
+            <p>Then our two Lovers met again, and <hi>Camillus</hi> gave an
+account of his viſit to our Cavalier. Both obtai<g ref="char:EOLhyphen"/>ned from their General upon
+a de<g ref="char:EOLhyphen"/>cent pretence, leave to withdraw, and they ſeriouſly applied
+themſelves to ſucceed in their deſigne. It being unfit, that they
+ſhould appear to <pb n="56" facs="tcp:59476:31"/>have any intereſt in the retreat of
+Siſter <hi>Aurelia,</hi> they left her to act all alone, and ſupplied her
+with the ſure means of obtaining her requeſt, feeing underhand the
+perſons, em<g ref="char:EOLhyphen"/>ployed to ſollicite the fair <hi>Nun's</hi> Pe<g ref="char:EOLhyphen"/>tition.</p>
+            <p>The Town, wherein ſhe was, had been conquered from the King
+o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Spaine,</hi> and
+thereupon it was, that ſhe grounded her requeſt. She re<g ref="char:EOLhyphen"/>preſented with a
+great deal of Spi<g ref="char:EOLhyphen"/>rit, and Ingenuity, that ſhe had ever born an inclination
+to the <hi>French</hi> intereſt, and more particularly ſince His Majeſty
+became Maſter of the Town, wherein the Monaſtery ſtood; but that, ſarr
+from gaining the love of her Superiours, by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Obedience which ſhe paid her Prince ſhe was
+become the hate of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole
+Convent, that they reſpect<g ref="char:EOLhyphen"/>ed her as a ſtranger, and that thoſe that
+Govern'd, being ſtill <hi>Spaniard</hi> in their hearts and affections,
+mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her ſuffer a
+thouſand torments, from <pb n="57" facs="tcp:59476:31"/>which ſhe could not be
+delivered, but by quitting the place, from whence ſhe humbly prayed to
+retire.</p>
+            <p>This pretence, being ſpecious e<g ref="char:EOLhyphen"/>nough, and theſe reaſons
+having ſome appearance, ſhe eaſily obtained her wiſh, but not without
+ſpecial regard being had, that <hi>Eugenia</hi>'s Convent, to which ſhe was
+to go, was go<g ref="char:EOLhyphen"/>verned by the ſame Rule, as That, which ſhe was to quit; and
+there was no other difference, but that in This, wherein <hi>Aurelia</hi> was,
+they wore a little white ſcarfe upon their Habit, which the others obſerved
+not. But this diſtinction, not being eſſential, they without difficulty,
+gave her all the neceſſary Orders for her departure.</p>
+            <p>In the mean time, theſe two Lo<g ref="char:EOLhyphen"/>vers conſulted together, of
+what they had to do <hi>Oronces,</hi> following the <hi>Genius</hi> that
+puſht him on, reſol<g ref="char:EOLhyphen"/>ved to take <hi>Aurelia</hi>'s Habit, and to go in that
+manner, to ſhut himſelf up in a <hi>Cloyſter,</hi> with his Miſtreſs;
+<pb n="58" facs="tcp:59476:32"/>and <hi>Camillus,</hi> making uſe of the op<g ref="char:EOLhyphen"/>portunity,
+and good will of his Miſt<g ref="char:EOLhyphen"/>reſs, deſigned to conduct her into a
+<hi>Caſtle</hi> of his own, and to live there, as Lovers, as long as
+Deſtiny would be favourable to them.</p>
+            <p>This ſo bold a Metamorphoſis was performed, as it had been
+projected. <hi>Aurelis,</hi> having departed by the way of the Coach, and
+knowing the place where the two Cavaliers waited for her, did on the ſecond
+day pre<g ref="char:EOLhyphen"/>tend to be diſtempered with that way of travelling, and ſeemed not
+able to continue without danger her journey, without ſome other conve<g ref="char:EOLhyphen"/>niency.
+She plaid her part ſo well, that nothing was ſuſpected, and the Coach
+arrived at the place, where <hi>Oronces</hi> and <hi>Camillus</hi> had already
+taken up their Lodging, There our <hi>Nun,</hi> having agreed for a Litter, did
+on the morrow diſmiſs the Coach, after ſhe had ſatisfied the
+Coachman.</p>
+            <p>It was here, that both parties made a Voluntary change of Habits,
+<hi>O<g ref="char:EOLhyphen"/>ronces</hi> 
+               <pb n="59" facs="tcp:59476:32"/>was but eighteen years old, he was fair
+like <hi>Aurelia,</hi> and almoſt of the ſame Stature, ſo that there was
+ſuch a reſemblance between them, that the diſguiſe was never known to
+any, but thoſe who were privy to it, who could not ſuffici<g ref="char:EOLhyphen"/>ently admire at
+their behaviour, which appeared not more unnatural, then if both the one and
+the other had been born in the Eſtate, in which they were at that time.</p>
+            <p>
+               <hi>Oronces,</hi> thus traveſtied into a <hi>Nun,</hi> and
+furniſhed with all the diſpatch<g ref="char:EOLhyphen"/>es neceſſary to his new condition,
+prepared himſelf to depart in the Lit<g ref="char:EOLhyphen"/>ter, accompanied only by a Girle, whom
+he took in the Town, to render his conduct irreproachable; he was inſtructed
+in every thing, neceſſary for his knowledge, to ap<g ref="char:EOLhyphen"/>pear before the
+Superiour, and ha<g ref="char:EOLhyphen"/>ving a Voice very ſweet, and very pleaſant, he
+perſwaded himſelf, that he could eaſily live in that Houſe, and perform
+all the Exerciſes, con<g ref="char:EOLhyphen"/>formable <pb n="60" facs="tcp:59476:33"/>to the Habit, which he
+wore.</p>
+            <p>
+               <hi>Camillus,</hi> for his part, conducted the fair
+<hi>Aurelia</hi> into a very pleaſant Caſtle, where he propoſed to
+himſelf to enjoy with her ſolid Pleaſures; and, wiſhing to his friend
+all content, never to be diſturbed by any unfore<g ref="char:EOLhyphen"/>ſeen misfortunes; they
+parted, after having exchanged a thouſand Marks of Affection, and ſetling a
+ſure means of holding a correſpondence with one another. Our Fair
+<hi>Nun,</hi> impatient to ſee her, whom ſhe loved, ſo haſtned her
+departure, and continued her journey with ſo great diligence, that within
+three days ſhe arrived at the Town, where ſhe was to remain.</p>
+            <p>She went immediately to make a viſit to the Biſhop of the
+place, who was the Chief Superiour of <hi>Eugenia</hi>'s Monaſtery; ſhe
+ſhew'd him her Obedience, and her other Pa<g ref="char:EOLhyphen"/>tents, wherewith ſhe was
+furniſht; She did him reverence with ſo much Grace, ſhe ſpoke to him
+with ſo much Modeſty, and always enter<g ref="char:EOLhyphen"/>tain'd <pb n="61" facs="tcp:59476:33"/>him ſo
+wittily, that the Pre<g ref="char:EOLhyphen"/>late was charmed with her, and was overjoyed with
+himſelf, that ſo Fair a Perſon rendered her ſelf ſubject to his
+obedience, and came to place her ſelf under his direction.</p>
+            <p>He was too much taken with the fair qualities of our
+Metamorphoſed Cavalier, (whom for the future we ſhall call
+<hi>Aurelia</hi>) to permit her ſo ſuddainly to ſhut up her ſelf in the
+<hi>Cloyſter,</hi> he would for three or four days have her walk in his Coach
+about the Town, and make her ac<g ref="char:EOLhyphen"/>quainted with other Monaſteries, with whom
+ſhe might, for the future, have ſome Communication. <hi>Aurelia,</hi> who
+had reaſon to fear every thing in a place, where ſhe was ſo well known,
+did for a while refuſe thoſe marks of goodneſs, which ſhe recei<g ref="char:EOLhyphen"/>ved
+from her Prelate, telling him, that ſhe deſired nothing, but a re<g ref="char:EOLhyphen"/>treat,
+and that, being entered into Religion very young, ſhe had no manner of
+Reliſh for affairs of the <pb n="62" facs="tcp:59476:34"/>World, whoſe faſhions ſhe
+was even ignorant of. Therefore ſhe intrea<g ref="char:EOLhyphen"/>ted him to excuſe her, and to
+grant her Leave to retire to her <hi>Cloyſter,</hi> that ſhe might there be
+at leiſure for exerciſes, more conformable to her Profeſſion.</p>
+            <p>This young Prelate had no regard to the entreaties of our
+Religious. He did not believe, that her heart had any ſhare, in what ſhe
+ſeemed to deſire, and he could not perſwade himſelf, that a Lady, ſo
+fair, ſo wit<g ref="char:EOLhyphen"/>ty, and whoſe Eyes were ſo filled with fire, did deſpiſe
+that which o<g ref="char:EOLhyphen"/>thers, with ſuch earneſtneſs, ſeek af<g ref="char:EOLhyphen"/>ter. He therefore
+ſhew'd her all the fine things, and curioſities of the Town. In all her
+viſits ſhe gained a general applauſe; her behaviour in them appeared ſo
+free, and diſaffected; her words ſo noble, and elevated; and her judgment
+ſo ſolid, that ſhe gained the hearts of all the compa<g ref="char:EOLhyphen"/>nies, ſhe came
+into.</p>
+            <p>The time of his abſence from the <pb n="63" facs="tcp:59476:34"/>Province,
+having a little changed his Meen, and the diſguiſing of his Sex under a
+Petti-coat and Vail, be<g ref="char:EOLhyphen"/>ing not imagined by any, he pre<g ref="char:EOLhyphen"/>ſerved himſelf from
+being known, even by thoſe, who had been his in<g ref="char:EOLhyphen"/>timate acquaintance, and
+ended all his viſits, without being diſcovered, or in the leaſt
+ſuſpected by thoſe, who were his neareſt relations.</p>
+            <p>This will not ſeem incredible to thoſe, who ſhall reflect on
+the many adventures, happening every day, by which we are ſo eaſily
+ſurprized; and if, in a Comedy, a Player, whom we have already ſeen,
+becomes afterwards unknown, by the change of his Part and Garments, why
+ſhould it be difficult, to believe the ſucceſs of a Stratagem, perfectly
+con<g ref="char:EOLhyphen"/>trived, and executed with a mar<g ref="char:EOLhyphen"/>vellous audacity?</p>
+            <p>The Biſhop, having ſpent three days in walking up and down, as
+well for his own particular content, as for the ſatisfaction of
+<hi>Aurelia,</hi> 
+               <pb n="64" facs="tcp:59476:35"/>he himſelf conducted her into the
+Monaſtery, and did himſelf the Ho<g ref="char:EOLhyphen"/>nour, to repreſent unto the Convent a
+perſon ſo amiable and accompliſh't.</p>
+            <p>The <hi>Abbeſs,</hi> who had heard the News of her departure,
+and arrival, received her with incredible tranſ<g ref="char:EOLhyphen"/>ports of Joy; and the other
+<hi>Nuns,</hi> at the ſight of ſo much Beauty, con<g ref="char:EOLhyphen"/>ceived, for her
+preſented to them, an interiour Friendſhip not to be expreſſed. She
+thanked the Prelate, with much reſpect, for thoſe teſti<g ref="char:EOLhyphen"/>monies of his
+goodneſs towards her, and he, for his part, giving her a Paſtoral Kiſs,
+and taking her into his protection, recommended her, as his own Daughter, to
+the Superiour, and left her with her Companions.</p>
+            <p>It was then, that Embraces were redoubled, and Kiſſes given
+without Number; never was Reception ac<g ref="char:EOLhyphen"/>companied with ſo many
+Careſſes.</p>
+            <p>
+               <hi>Aurelia</hi> was all on Fire, and the colour, which enlivened
+her Coun<g ref="char:EOLhyphen"/>tenance, added an agreeableneſs, <pb n="65" facs="tcp:59476:35"/>which render'd
+her ſo amiable, as that ſhe raviſhed their hearts. In the mean time,
+<hi>Eugenia</hi> appeared not in the Troop; ſhe was become ſo ſolitary
+and melancholly, after the News, which ſhe had received about
+<hi>Oronces,</hi> that ſhe was indif<g ref="char:EOLhyphen"/>ferent for all things, and employed her
+thoughts only in Vexation and Diſpleaſure, for having unhappily engaged her
+ſelf by a ſolemn Pro<g ref="char:EOLhyphen"/>feſſion, and publick declaration of her Vows.</p>
+            <p>Her Lover was no leſs unquiet, not to ſee Her, whom he loved
+ſo tenderly. She had no manner of notice of his deſignes, and there<g ref="char:EOLhyphen"/>fore,
+when ſome of her Companions advertiſed her of the arrival of Siſter
+<hi>Aurelia,</hi> ſhe made no other anſwer, but that ſhe ſhould have
+time e<g ref="char:EOLhyphen"/>nough to ſee and ſalute her, ſince ſhe was to remain in the
+Houſe.</p>
+            <p>In the mean time, the Superiour, according to cuſtom, cauſed
+all the Siſters to be called together, to the <pb n="66" facs="tcp:59476:36"/>publick
+reading of <hi>Aurelia</hi>'s Patents, and to receive her, according to Form,
+into the number of the Reli<g ref="char:EOLhyphen"/>gious. <hi>Eugenia</hi> was then preſent with the
+others, and while one of the Ancients red the diſpatches, and that the other
+Formalities were ob<g ref="char:EOLhyphen"/>ſerved, ſhe had her eye continually upon this new
+Commer, but ſhe little thought, that ſhe beheld her Lover.</p>
+            <p>After the Ceremony was over, <hi>Oronces</hi> received freſh
+kiſſes from the Company, but he found none ſo ſweet, as that which his
+Miſtreſs gave him. He could not refrain from claſping her more
+amorouſly, than he did the others, and al<g ref="char:EOLhyphen"/>though he did not deſign to
+diſco<g ref="char:EOLhyphen"/>ver himſelf ſo ſoon to her, he could not forbear a certain
+whiſper, fol<g ref="char:EOLhyphen"/>lowed by ſome glances, which pe<g ref="char:EOLhyphen"/>netrated the heart of that
+lovely Creature.</p>
+            <p>The poor Lady, agitated with a thouſand thoughts, retired
+immedi<g ref="char:EOLhyphen"/>ately into her Chamber, to medi<g ref="char:EOLhyphen"/>tate <pb n="67" facs="tcp:59476:36"/>of what ſhe
+had ſeen, and to reflect upon the reſemblance of <hi>Au<g ref="char:EOLhyphen"/>relia</hi>'s face
+to her Dear <hi>Oronces.</hi> Ne<g ref="char:EOLhyphen"/>vertheleſs, ſhe durſt not be con<g ref="char:EOLhyphen"/>vinced
+of what, her heart declared to her, and though ſhe had been moved with an
+infinite tenderneſs, at the time ſhe was embraced, yet a deſigne, ſo
+hardy and ſurprizing, could not enter her thought. In this embarras, and
+confuſion of Spirit, ſhe ſlumbered, and her mind, being filled only with
+the reſem<g ref="char:EOLhyphen"/>blance, that was between <hi>Aurelia</hi> and <hi>Oronces,</hi>
+ſhe continually drea<g ref="char:EOLhyphen"/>med of that Subject. Let us leave her in this moment of
+repoſe and tranquillity, to ſee what her Lover does.</p>
+            <p>
+               <hi>Aurelia</hi> was all his time enter<g ref="char:EOLhyphen"/>tained by a <hi>Nun,</hi>
+who finding in her ſelf a great inclination to love her, reſolved with the
+firſt to gain her Heart, and Friendſhip. She was young and fair, and
+<hi>Oronces</hi> was not inſenſible, but, his Affections 
+<pb n="68" facs="tcp:59476:37"/>being already placed, he made no return of real Love or
+Tenderneſs, but only of a little outward Com<g ref="char:EOLhyphen"/>plaiſance.</p>
+            <p>This <hi>Nun,</hi> who was called <hi>Pam<g ref="char:EOLhyphen"/>philia,</hi> never found
+in her ſelf ſo ar<g ref="char:EOLhyphen"/>dent a deſire to love one, of her own Sex, as ſhe did
+in reſpect of this new Commer; and this Love, appearing to her innocent, and
+impoſſible to have in it any thing impure, ſhe puſht it on, as far as
+ſhe could, and, knowing by experience, that the Night was more proper than
+the Day for a thouſand amorous decla<g ref="char:EOLhyphen"/>rations and an infinity of engaging
+wantonneſſes, ſhe proffered <hi>Aurelia</hi> to paſs it with her, in
+one of the Com<g ref="char:EOLhyphen"/>mon Chambers, becauſe as yet there was no particular one,
+provided for her.</p>
+            <p>All theſe Careſſes, enough to have tranſported with joy,
+any o<g ref="char:EOLhyphen"/>ther, that had ſence, gave <hi>Aurelia</hi> but a ſlender
+ſatisfaction. She did indeed find her ſelf a little warmed 
+<pb n="69" facs="tcp:59476:37"/>but ſhe needed only think upon <hi>Eugenia,</hi> to
+quench immediately thoſe Flames, which begun to blaze. Nevertheleſs, ſhe
+could not forbear telling <hi>Pamphilia,</hi> that her compa<g ref="char:EOLhyphen"/>ny would be very
+agreeable unto her, and that ſhe received extraor<g ref="char:EOLhyphen"/>dinary pleaſure in her
+converſation: But that which gave her no ſmall content, was, to hear from
+this Re<g ref="char:EOLhyphen"/>ligious, a recital of every thing that had paſt, concerning her
+Miſtreſs, who being one of <hi>Pamphilia</hi>'s intimate Friends, had made
+her a Confident of it all, and had pray<g ref="char:EOLhyphen"/>ed her to keep it ſecret, and im<g ref="char:EOLhyphen"/>part
+it to none.</p>
+            <p>
+               <hi>Oronces,</hi> who almoſt died with a deſire of ſpeaking
+to <hi>Eugenia,</hi> took thence an occaſion of asking <hi>Pam<g ref="char:EOLhyphen"/>philia,</hi>
+where was her Chamber? and told her, that ſhe would be glad to go along with
+her, and vi<g ref="char:EOLhyphen"/>ſit that amiable <hi>Nun.</hi> Then <hi>Pam<g ref="char:EOLhyphen"/>philia</hi> conducted
+him thither, and immediately left them together, to <pb n="70" facs="tcp:59476:38"/>the
+end, that they might be the more eaſily engaged in a Common amity, wherein
+ſhe might have a part.</p>
+            <p>Our Metamorphoſed <hi>Cavalier,</hi> for all his
+Miſtreſſes Melancholly, found her fairer, then ever, he had ſeen her,
+even in her richeſt Gar<g ref="char:EOLhyphen"/>ments. Her youth inſpired him with Joy, her Beauty
+with new de<g ref="char:EOLhyphen"/>ſires, and what ſhe had done for him with admiration. He at
+firſt diſſembled, who he was, and under<g ref="char:EOLhyphen"/>ſtood from her, that ſhe was
+newly riſen from ſleep, and that ſhe had had a Dream, which, while it
+con<g ref="char:EOLhyphen"/>tinued, gave her a great deal of plea<g ref="char:EOLhyphen"/>ſure, but, after awakening, created
+nothing in her, but diſquiet. He preſt her to declare it, and told her,
+that he would ſhew the true mea<g ref="char:EOLhyphen"/>ning of it, if it had the leaſt con<g ref="char:EOLhyphen"/>formity
+with reaſon. She immedi<g ref="char:EOLhyphen"/>ately gave him a look, and their Eyes meeting
+together, ſaid in their Language, that Love was very in<g ref="char:EOLhyphen"/>genious, and that
+they could not <pb n="71" facs="tcp:59476:38"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong be unknown to one another. Nevertheleſs
+<hi>Eugenia,</hi> being the more fearful, did not dare to declare her thought
+firſt, and <hi>Oronces,</hi> who took pleaſure in ſeeing her in that
+con<g ref="char:EOLhyphen"/>fuſion, made no great haſt to draw her out of it.</p>
+            <p>In fine, Love overcame Affection; <hi>Aurelia,</hi> or rather our
+<hi>Cavalier,</hi> could no longer reſiſt thoſe tender motions, which the
+preſence of his dear Miſtreſs made him reſent. He
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt himſelf about her
+neck, and embracing her with tranſports of extraordinary joy, he cried out,
+yes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tis I,
+<hi>Eugenia;</hi> and Love has given me the Habit, which you ſee. That word,
+chaſing all doubt from <hi>Euge<g ref="char:EOLhyphen"/>nia</hi>'s mind, repleniſhed her with an
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nconceivable
+ſatisfaction, and for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome
+moments deprived her of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of her ſenſes, that ſhe might
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he more peaceably enjoy
+within her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf, that
+exceſs of pleaſure, which
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he felt.</p>
+            <p>As ſoon as they had recovered <pb n="72" facs="tcp:59476:39"/>their
+ſurprize, they began again their Careſſes; and <hi>Oronces,</hi> to take
+<hi>Euge<g ref="char:EOLhyphen"/>nia</hi> out of pain, related to her, how every thing paſt, and that
+they had no cauſe to apprehend any thing, as long as his youth would leave
+his chin unfurniſhed, and as the ſweet<g ref="char:EOLhyphen"/>neſs of his voice would continue.
+She for her part, acquainted him, with the Artifice, which her Mother made
+uſe of, to abuſe her, and con<g ref="char:EOLhyphen"/>jured him to behave himſelf diſcreet<g ref="char:EOLhyphen"/>ly
+in regard of the Convent, leaſt that, by ſome wrong ſtep, he might
+ſpoil an enterprize, that required all the good conduct imaginable, to make
+it ſucceed.</p>
+            <p>She inſtructed him moreover i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the ways of living in a <hi>Cloyſter</hi>
+and ſhe faſhioned him ſo well, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was in a little time, as skilful,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ancienteſt Dame in the
+houſe and he performed his Duty ſo well as ſhall be ſeen hereafter,
+that h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> merited to have the
+direction of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Novices,</hi> when their ordinary Mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>treſs, <pb n="73" facs="tcp:59476:39"/>who was very Aged, could not attend
+that exerciſe, by reaſon of indiſpoſition.</p>
+            <p>In the mean time, the promiſe, which he had made
+<hi>Pamphilia</hi> to paſs the night with her, troubled him not a little. He
+told in <hi>Eugenia,</hi> who could find no ſurer means to prevent it, then
+by offering the ſame thing in the others preſence; an opportunity ſo to
+do preſented it ſelf immediately, for <hi>Pamphilia,</hi> im<g ref="char:EOLhyphen"/>patient to
+ſee <hi>Aurelia</hi> again, went and rejoyned them in a Friends Chamber, who
+told her, as ſoon as ſhe entered, that ſhe would not quit
+<hi>Aurelia</hi> before the morning, and that, being for that day exemp<g ref="char:EOLhyphen"/>ted
+from aſſiſting in the Quire, ſhe would keep her company.</p>
+            <p>
+               <hi>Pamphilia</hi> for her part alledged, that ſhe had made the
+firſt proffer; that the Bed, wherein they were to ly, was too little for
+three, and that ſhe muſt yield to her, as to one who was her elder. But
+<hi>Eugenia</hi> 
+               <pb n="74" facs="tcp:59476:40"/>was too much intereſſed, to let her
+gain that point, Therefore the con<g ref="char:EOLhyphen"/>cluſion was, that they ſhould
+accom<g ref="char:EOLhyphen"/>modate themſelves as well as they could, and that both ſhould take
+care to divert the new Comer.</p>
+            <p>In the mean time, nothing was more embarraſſed than our
+<hi>Cavalier</hi> he was ſo fearful, of giving his Miſtreſs ſome
+apparent cauſe of Jea<g ref="char:EOLhyphen"/>louſy, that he thought himſelf obli<g ref="char:EOLhyphen"/>ged to prevent
+her, and to intrea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her, not
+to make any ill conſtructi<g ref="char:EOLhyphen"/>on of the Amity, which ſhe ſhould outwardly
+ſhew, in return to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Careſſes of the other <hi>Nuns-:</hi> tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he would abſtain altogether from ſo doing,
+if ſhe abſolutely deſire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it; but that he believed, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſt way to conceal their Game was to live
+outwardly alike with al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the
+world.</p>
+            <p>
+               <hi>Eugenia,</hi> who had a good wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and was perfectly convinced of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great Love, which
+<hi>Oronces</hi> had fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+her, told him, that he might a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <pb n="75" facs="tcp:59476:40"/>in all things without Conſtraint, that,
+although ſhe loved him much more then he could imagin, yet ſhe did believe,
+that no jealouſy could ever trouble her: That he might really upon theſe
+words and hereafter uſe all the liberty, he would do, were he that in Effect,
+which he was only in Appearance.</p>
+            <p>There is nothing that agrees with Beauty better, or gives it more
+luſtre then joy; <hi>Eugenia,</hi> being rid of her vexation, and a gay
+humour ſucceeding her Melancholly, reco<g ref="char:EOLhyphen"/>vered in a little time, together with
+a good plight, thoſe charms, which formerly rendered her ſo lovely, and
+were now ſullied with the trouble and diſquiet of mind, to which her
+retreat had reduced her. She ſupt with her Lover, and <hi>Pam<g ref="char:EOLhyphen"/>philia,</hi>
+who was become jealous of the Careſſes, that all the young <hi>Nuns</hi>
+made to ſiſter <hi>Aurelia,</hi> flat<g ref="char:EOLhyphen"/>tered her ſelf, with the
+ſenſible plea<g ref="char:EOLhyphen"/>ſure of lying, and paſſing the night 
+<pb n="76" facs="tcp:59476:41"/>with a Perſon, whom ſhe loved with an Extraordinary
+tenderneſs, and affection.</p>
+            <p>
+               <hi>Eugenia,</hi> that ſhe might have an opportunity of being
+ſomtime alone with <hi>Oronces,</hi> undertook her ſelf to go, and make the
+Bed, and put in a readineſs the Chamber, wherein he was to remain, untill
+another were provided in the Common <hi>Dor<g ref="char:EOLhyphen"/>mitory</hi> of the Convent. The
+diſ<g ref="char:EOLhyphen"/>guiſed Lover followed her, and was ſufficiently perplexed, to
+ſatisfy all the queſtions, which were asked him in a quarter of an hours
+con<g ref="char:EOLhyphen"/>verſation. She immediately asked him, what were his ſentiments, when he
+received ſo many kiſſes from the youngeſt, and faireſt in the
+houſe. Alas! my dear <hi>Eugenia,</hi> he anſwered, I will diſſemble
+nothing from you. 'Tis true, that two or three, who acquitted themſelves with
+a great deal of heat, cauſed in me ſome ſlight emotions; ſome Sparkles
+of the Fire, wherewith <pb n="77" facs="tcp:59476:41"/>they ſeemed to burn, did warm my
+heart, and touched it with ſome ſence of ſweetneſs, which did a little
+tickle me.</p>
+            <p>How, ſaid ſhe to him, did you not reſiſt that ſpringing
+Affection, and condemn in your ſelf a Love, which could not be lawful,
+ſince you con<g ref="char:EOLhyphen"/>ceived it to my prejudice? Ah, he replied, you ought to
+excuſe me for ſeveral reaſons, faults, that we com<g ref="char:EOLhyphen"/>mitted in ſpight of
+our ſelves, ſhould eaſily be pardoned. Beſides I can aſſure you,
+that if theſe Embraces have raiſed in me any paſſions, they were but
+wandring ones, which only diſturbed the ſoul, but poſſeſt it not for
+any long time. My reaſon is not become irregular upon their account, and the
+extream love that I have for you, hath ſuffered no alteration, for your
+preſence only hath driven out of my mind, all the Idea's, formed therein by
+theſe ſtrange Beauties. I muſt believe you, interrupted <hi>Eugenia,</hi>
+and I <pb n="78" facs="tcp:59476:42"/>foreſee well enough, that I muſt prepare my
+ſelf to pardon you ma<g ref="char:EOLhyphen"/>ny of the like faults, while you remain here; but for
+the reſt, con<g ref="char:EOLhyphen"/>tinued ſhe, have a care of favouring the weakneſs of any in
+this Con<g ref="char:EOLhyphen"/>vent, or of making your ſelf known, and no leſs of requiring from
+me, what I will never grant, but accor<g ref="char:EOLhyphen"/>ding to Form. All other favours for your
+comfort, ſhall not be denied you, and we will live together, as a Brother
+would with a Siſter, whom he cheriſhes, and by whom he is equally beloved.
+Eſpecially, ſince that we ſhall be obliged to ly toge<g ref="char:EOLhyphen"/>ther this night, to
+avoid the wan<g ref="char:EOLhyphen"/>tonneſs of Siſter <hi>Pamphilia,</hi> who o<g ref="char:EOLhyphen"/>therwiſe will
+without doubt diſco<g ref="char:EOLhyphen"/>ver you; behave your ſelf diſcreet<g ref="char:EOLhyphen"/>ly, and
+conſider, that your fortune and my Life and Honour, ly upon your following
+theſe meaſures, which I give you. Your Father, who is the Principal
+obſtacle to our liberty, is very old, and the man<g ref="char:EOLhyphen"/>ner, <pb n="79" facs="tcp:59476:42"/>that I enter'd this Houſe, is known to many, who can upon occaſion
+bear witneſs of it, and I hope, that by the aſſiſtance of ſome
+powerful friends, we may at length bring about our firſt pretenſions, and
+then paſs the reſt of our days in pleaſures, by ſo much the more pure,
+as that they will be lawful, and ſhall never more be diſturbed by any
+Accident, from the long en<g ref="char:EOLhyphen"/>joyment of them in perfection.</p>
+            <p>They were in this Diſcourſe, when <hi>Pamphilia</hi> entered,
+who fin<g ref="char:EOLhyphen"/>ding them all on fire, demanded how they had over-heated them<g ref="char:EOLhyphen"/>ſelves?
+<hi>Eugenia</hi> replied, that they were forced to righten the Chamber, for it
+was quite ought of Order. Truly, ſaid <hi>Pamphilia,</hi> you are not very
+conſcientious, to cauſe ſiſter <hi>Aurelia,</hi> to work thus, could
+you not ſtay for company, but muſt tire a poor girl, juſt arrived from a
+long journey, and in ſaying that, ſhe caſt her arms about
+<hi>Oronces</hi> 
+               <pb n="80" facs="tcp:59476:43"/>his neck, and gave him a kiſs.
+<hi>Eu<g ref="char:EOLhyphen"/>genia,</hi> who in ſpight of all her pre<g ref="char:EOLhyphen"/>cautions, did believe, that
+her Lo<g ref="char:EOLhyphen"/>ver robbed her of every thing, that he granted another, could not
+re<g ref="char:EOLhyphen"/>ſtrain her ſelf, but would be a ſha<g ref="char:EOLhyphen"/>rer, ſo that our new
+<hi>Nun,</hi> was the moſt embarraſſed in the world, to ſatisfy theſe
+paſſionated Creatures.</p>
+            <p>But this was but a Prelude, or ſlight Attack, if compared with
+what was apparently to follow. As ſoon as the retreat was rung, and that all
+the <hi>Nuns</hi> were retired each one into her Cell, the two Siſters,
+together with the young <hi>Nun,</hi> began the evening with a thouſand
+little divertiſing Sports. <hi>Oronces,</hi> who had no experience in the
+greater part of theſe Cloyſte<g ref="char:EOLhyphen"/>rial Games, was almoſt continually out, and
+was condemned to an hun<g ref="char:EOLhyphen"/>dred wanton trifles, which would infinitely have
+pleaſed him, had he been at liberty.</p>
+            <p>Theſe paſtimes were followed <pb n="81" facs="tcp:59476:43"/>by a
+Collation, where Marchpanes, and other delicacies grateful to the taſt,
+appeared with profuſion: The moſt tender Airs, out of <hi>Operaes,</hi>
+were alſo ſung, and Siſter <hi>Aurelia,</hi> who had a great deal of
+skill, performed her part to perfection.</p>
+            <p>After having ſpent much time in theſe divertiſements, they
+began to talk of going to bed. <hi>Eugenia</hi> had before hand acquainted her
+Lover, with all the fooleries he was to en<g ref="char:EOLhyphen"/>dure, if he lay near
+<hi>Pamphilia,</hi> beſides, that it would be impoſſible to do ſo
+without diſcovering his Sex. Therefore he was to place him<g ref="char:EOLhyphen"/>ſelf by his
+Miſtreſs's ſide; do not imagin, that this was any pleaſure to him, but
+quite contrary; for ſhe had impoſed upon him ſuch rigo<g ref="char:EOLhyphen"/>rous Laws, that he
+never paſt a night with leſs repoſe, or more diſquiet than that.</p>
+            <p>
+               <hi>Pamphilia,</hi> who was almoſt ready to ly down, told
+<hi>Eugenia,</hi> that al<g ref="char:EOLhyphen"/>though ſhe only had right to ly <pb n="82" facs="tcp:59476:44"/>with Siſter <hi>Aurelia,</hi> having made the firſt proffer; yet
+ſhe was wil<g ref="char:EOLhyphen"/>ling to admit her to a ſhare in the bed, ſo <hi>Aurelia</hi>
+lay in the middle.</p>
+            <p>Though, according to Rules, a Propoſition, ſo reaſonable as
+this, ought to be received without diſ<g ref="char:EOLhyphen"/>pute; yet <hi>Eugenia</hi> would not
+agree unto it, foreſeeing as a thing infal<g ref="char:EOLhyphen"/>lible, the diſcovery of her
+Lover, if it ſhould happen ſo. <hi>Pamphilia</hi> alſo for her part,
+being unwillng to yield, had however Complaiſance enough, to offer to decide
+the Que<g ref="char:EOLhyphen"/>ſtion by ſome kind of game, which was done, but to the
+diſadvantage of <hi>Eugenia,</hi> who loſt and no lon<g ref="char:EOLhyphen"/>ger knew, what Saint
+to invoke, that ſhe might eſcape the danger, wherein ſhe was.</p>
+            <p>In the mean time, her naked Companion, after kiſſing
+<hi>Aurelia,</hi> went firſt to bed, and left the two Lovers buſy, at
+Prayers in appea<g ref="char:EOLhyphen"/>rance, but indeed in contriving ſome Artifice to deliver
+themſelves from <pb n="83" facs="tcp:59476:44"/>the Winners perſuites. At length af<g ref="char:EOLhyphen"/>ter
+having meditated ſome time, <hi>Eugenia</hi> reſolved to put out the
+Candle, before ſhe lay down, and to creep readily into the place, ap<g ref="char:EOLhyphen"/>pointed
+for <hi>Oronces,</hi> and then to ſuffer him by her ſide. She adver<g ref="char:EOLhyphen"/>tiſed
+him of it, and ſeeming to ſearch for ſomething with the light, ſhe let
+it fall deſignedly, and ex<g ref="char:EOLhyphen"/>tinguiſh't the Flame, ſo as
+<hi>Pamphi<g ref="char:EOLhyphen"/>lia</hi> could obſerve nothing, to make her ſuſpect, that it
+was done pur<g ref="char:EOLhyphen"/>poſely to deceive her.</p>
+            <p>
+               <hi>Oronces,</hi> who was neer the Bed, and undreſſing, was
+called upon by her, who was impatient of being alone, I will come unto you
+pre<g ref="char:EOLhyphen"/>ſently, ſaid he, but I deſire you would not trouble my repoſe, it
+will be in vain to talk to me; I ſhall not anſwer one word, for I am
+already half aſleep.</p>
+            <p>He had hardly ended theſe words, when <hi>Eugenia</hi> threw her
+ſelf into Bed, and placed her ſelf in the middle, and <pb n="84" facs="tcp:59476:45"/>
+               <hi>Oronces</hi> ſoon after lay down by her.</p>
+            <p>
+               <hi>Pamphilia</hi> no ſooner felt <hi>Eugenia</hi> by her
+ſide, but miſtaking her for <hi>Aurelia,</hi> did moſt ſtraitly embrace
+her, and demanded of her, if ſhe would not be her Friend? <hi>Eugenia</hi>
+anſwered not, but with a kiſs, which ſhe could not ſoon get rid off,
+and which was followed with all the Careſſes, and wantonneſs, which the
+poor Recluſe are wont to put in practiſe, to aſſwage the heat of their
+fire. 'Tis very true, that <hi>Eugenia</hi> did expoſe her ſelf to her
+Companions fury, only to deliver her Lover from it, and that ſhe rather
+ſought his ſafety, then any ſatis<g ref="char:EOLhyphen"/>faction, which ſhe took therein.</p>
+            <p>While the two Siſters were exer<g ref="char:EOLhyphen"/>ciſing theſe
+wantonneſſes, the Poor <hi>Oronces</hi> ſuffered more pain, then they
+could taſt pleaſure; he was like <hi>Tantalus,</hi> condemned to die with
+hunger, in the ſight of ſeveral dainties, he was Poor in the midſt of
+Wealth, and what ſeemed ſuffi<g ref="char:EOLhyphen"/>cient <pb n="85" facs="tcp:59476:45"/>to compleat his
+joys, was now become the cauſe of his pain and ſorrow.</p>
+            <p>He could not reflect upon the condition wherein he was, without
+becomming ſenſible of a thou<g ref="char:EOLhyphen"/>ſand importunate thoughts, which tired his
+Imagination, and burnt him with a Fire, that he was not permitted to quench,
+even upon the brink of a Fountain. He was ſo filled with the Idea of his
+Miſt<g ref="char:EOLhyphen"/>reſſes attractions, that all his deſires were fix't upon that
+amiable Crea<g ref="char:EOLhyphen"/>ture; all his ſighs half ſtifled, were for her; and all the
+motions of his heart had no other cauſe then her Charms.</p>
+            <p>He perceived ſometimes his Rea<g ref="char:EOLhyphen"/>ſon growing weak, and without
+Heroical endeavours, he would ne<g ref="char:EOLhyphen"/>ver have been able to reſiſt ſuch
+forcible temptations: Alas! what did he not think? What did he not ſay to
+himſelf? what torment ſaid he, is this I feel? and whence 
+<pb n="86" facs="tcp:59476:46"/>proceeds the unquietude and diſ<g ref="char:EOLhyphen"/>order, wherein I am?
+What? muſt I be the moſt unhappy man in the world, for lying by the
+faireſt Crea<g ref="char:EOLhyphen"/>ture in it? Can ſo fine an object, accuſtomed to inſpire
+me with no<g ref="char:EOLhyphen"/>thing but joy, put me now to ſo much pain? Ah! how dangerous a
+paſſion is Love, and to what rough Tryals do's it expoſe us, before it
+imparts unto us, even the leaſt of its pleaſures.</p>
+            <p>While he thus thought, <hi>Eugenia,</hi> defending her ſelf from
+her Com<g ref="char:EOLhyphen"/>panions embraces, did without con<g ref="char:EOLhyphen"/>ſidering it, approach him with a
+great deal of precipitation, it was then, that he being ignorant, whe<g ref="char:EOLhyphen"/>ther
+Chance or Love threw her ſo into his Arms, did almoſt forget all the Laws,
+preſcribed him, and there wanted little of his committing a fact, contrary to
+his duty. This approach did ſenſibly augment his Fires, and the Heat,
+received from it, conſumed him even to the very <pb n="87" facs="tcp:59476:46"/>heart,
+inſomuch, that though ſhe was retired, yet the remembrance of that
+ſurprize did continually re<g ref="char:EOLhyphen"/>double his Affliction; that is, if it were
+poſſible to imagine any ad<g ref="char:EOLhyphen"/>dition to a Grief, which, from the firſt
+moment, that he conceived it, had been extream and inſupportable.</p>
+            <p>At length, <hi>Pamphilia</hi> cloyed with kiſſes, and wearied
+with the vio<g ref="char:EOLhyphen"/>lence of her exerciſe, found her ſelf overcome with ſleep.
+She bid her Neighbour Good night, by the name of <hi>Aurelia,</hi> who alſo
+coun<g ref="char:EOLhyphen"/>terfeited ſleep, though it was im<g ref="char:EOLhyphen"/>poſſible for her to reſt one
+moment. She had much ado to conſtrain her<g ref="char:EOLhyphen"/>ſelf, and on what diverſions
+ſoever ſhe employed her mind, ſhe could never take it of from her Lover,
+her imagination repreſented Him ſo forcibly, that all the various
+reflections, to which ſhe applied her ſelf, proved too weak to pre<g ref="char:EOLhyphen"/>vail
+over the violence of her Paſſion; and loving <hi>Oronces</hi> no leſs
+then ſhe <pb n="88" facs="tcp:59476:47"/>was beloved by him, ſhe was ſen<g ref="char:EOLhyphen"/>ſible of
+all the motions, concernes, and tranſports, which Love made him reſent.</p>
+            <p>In the mean time, <hi>Oronces,</hi> ſeeing theſe two
+Companions quiet, belie<g ref="char:EOLhyphen"/>ved, that they were really aſleep. So that to eaſe
+a little of the ex<g ref="char:EOLhyphen"/>tream heat, which conſumed him, he laid his hand upon
+<hi>Eugenia's</hi> Bo<g ref="char:EOLhyphen"/>dy, and for ſome time ran over it with extraordinary
+tranſports, which made him forget himſelf, and gave him a taſte of
+pleaſures not to be equalled, to his wonder<g ref="char:EOLhyphen"/>ful Satisfaction: His
+Miſtreſſe's fear of his being diſcovered by ſome unhappy word, was
+the Cauſe, that at firſt ſhe durſt not ſay any thing to him, to
+rebuke him; but at length, he became ſo importunate, and his toying provoked
+her in ſuch a man<g ref="char:EOLhyphen"/>ner, that ſhe could no longer en<g ref="char:EOLhyphen"/>dure it, but ſeizing
+his hand, ſhe put it off from her, and whiſpered him, as ſoftly as ſhe
+could, that <pb n="89" facs="tcp:59476:47"/>he ſhould conſider the danger where<g ref="char:EOLhyphen"/>to they
+were expoſed; He took that warning, and giving <hi>Eugenia</hi> a kiſs, he
+let her underſtand, that he would no more.</p>
+            <p>There is nothing more vexatious to Lovers, than to ſpend the
+nights after that manner: <hi>Eugenia</hi> would not have <hi>Oronces</hi> to
+ly there, until the appearance of day, but, leaſt the light ſhould
+diſcover him, ſhe made him riſe, and dreſs himſelf, and gave him the
+key of a neighbou<g ref="char:EOLhyphen"/>ring Chamber, where he threw himſelf upon a Bed, to take a
+little repoſe. After which, ſhe lay in his place, and left the middle
+empty, to the end to make her Compa<g ref="char:EOLhyphen"/>nion believe, that it was Siſter
+<hi>Au<g ref="char:EOLhyphen"/>relia</hi> who had filled it up.</p>
+            <p>In effect, <hi>Pamphilia</hi> was convin<g ref="char:EOLhyphen"/>ced of it, as ſoon as
+ſhe awaked, and <hi>Eugenia</hi> acquainted her, that ſhe had ſo tired
+and overheated that poor Girle, with her embraces, that ſhe was obliged to
+withdraw into <pb n="90" facs="tcp:59476:48"/>another Chamber, for a little reſt, it
+being impoſſible for her to ſleep with ſo great heat, and
+importu<g ref="char:EOLhyphen"/>nity.</p>
+            <p>As ſoon as our two Lovers ſaw each other, <hi>Eugenia</hi>
+ſmilingly asked <hi>Oronces,</hi> how he had paſt the night? Ah! malicious
+Creature, he replied, have you the heart, ſo to inſult o<g ref="char:EOLhyphen"/>ver an unfortunate
+man? Know, that I never gave you greater proofs of my Love than laſt night,
+and without extream Affection, my Obedience could never have been ſo perfect.
+You made me dye a thouſand times by your continual motions, and I ſtill
+admire, how I have been able to obſerve with ſo great ſubmiſſion,
+thoſe rigorous Laws, which you had given me.</p>
+            <p>By this, the time was come, wherein they were to attend all the
+uſual exerciſes of a Monaſtick life. <hi>Oronces</hi> was inſtructed in
+them by his Miſtreſs, and performed them with ſo great ſucceſs,
+eſpecially <pb n="91" facs="tcp:59476:48"/>thoſe that regarded the buſineſs of the
+Quire, that in ſome time after, ſhe who had the care of forming the Voices
+of the <hi>Novices,</hi> being fallen ſick, that charge was given to
+ſiſter <hi>Aurelia,</hi> who took plea<g ref="char:EOLhyphen"/>ſure in the Employment, and did
+execute it to the ſatisfaction of all thoſe, put under him.</p>
+            <p>The truth is, that he ſo behaved himſelf, as that under the
+Counte<g ref="char:EOLhyphen"/>nance of a <hi>Venus,</hi> he made Virtue it ſelf, and Modeſty
+ſhine out. He ſee<g ref="char:EOLhyphen"/>med unmoved with any ambition. His Beauty gave him not
+the leaſt pride or affectation. He was ſimple or witty according to
+occaſion, and ſo plain a ſincerity appeared in him, that even the moſt
+penetrating were deceived.</p>
+            <p>Under the Veil of an eaſy and attracting Devotion, he gained the
+hearts of all the World; and his Miſtreſs, and himſelf following the
+ſame Rules in their Conduct, and being endowed almoſt with the 
+<pb n="92" facs="tcp:59476:49"/>ſame qualities, they were eſtee<g ref="char:EOLhyphen"/>med, as Perſons, that
+one day would fill up the Chief Places of the Convent.</p>
+            <p>
+               <hi>Eugenia</hi> was of a tall and ſlen<g ref="char:EOLhyphen"/>der ſtature, her face
+round, and of a wonderful complexion; her black Eyes were filled with Fire,
+which ſhe tempered with a great deal of ſweetneſs, and modeſty, her
+teeth were white, even, and well ranked. In fine to give a perfect Idea of Her,
+it may be ſaid, that her Veil hid more beauty then outwardly appeared, and
+that it was reſerved for him only, who one day was to enjoy her, to admire at
+its Per<g ref="char:EOLhyphen"/>fection.</p>
+            <p>
+               <hi>Oronces</hi> had already remained al<g ref="char:EOLhyphen"/>moſt a year in the
+Monaſtery, and lived there, with the Approbation of the whole Convent, when
+an unlucky Accident made him a thou<g ref="char:EOLhyphen"/>ſand times repent of his raſh entring
+into that place, and of truſting him<g ref="char:EOLhyphen"/>ſelf ſo long to the inconſtancy of
+Fortune.</p>
+            <pb n="93" facs="tcp:59476:49"/>
+            <p>A <hi>Nun</hi> of the houſe, called, <hi>Lu<g ref="char:EOLhyphen"/>cia,</hi> having
+been a little too famili<g ref="char:EOLhyphen"/>ar in private with at Directour, who would conduct her
+into Heaven, by ways very different from the Goſpel, ſo reſented his
+devout In<g ref="char:EOLhyphen"/>ſtructions, that ſhe could not hide the fruits of it; but
+appeared big with Child in the ſight of all her Companions.</p>
+            <p>There is nothing that deſtroys the eſteem, which the world
+hath conceived for theſe kind of People, more then the knowledge of their
+Crimes, and Offences. They there<g ref="char:EOLhyphen"/>fore kept the buſineſs as ſecret as they
+could, and the Superiour forbad them, under great penalties, to ſay any thing
+of that diſorder. In the mean time, the poor <hi>Lucia</hi> was ex<g ref="char:EOLhyphen"/>amined,
+and becauſe, ſhe had read in a Book, containing ſeveral Fabu<g ref="char:EOLhyphen"/>lous
+Stories, that a Veſtall had con<g ref="char:EOLhyphen"/>ceived by a Spirit, She thought, that ſhe
+alſo might deny her having any communication with a man. <pb n="94" facs="tcp:59476:50"/>In effect, ſhe ſo ſtubbornly perſiſted in the denyal, that
+the Superiour, fearing that there might be ſome <hi>Hermaphrodite</hi> among
+her maids, ordered ten of the moſt Ancient, to ſearch all the <hi>Nuns</hi>
+of the Con<g ref="char:EOLhyphen"/>vent without exception, and then to make a true Report to her, of
+what they had ſeen.</p>
+            <p>I leave you to judge, what ex<g ref="char:EOLhyphen"/>tremity, this Order reduced our two
+Lovers to: <hi>Eugenia,</hi> who fea<g ref="char:EOLhyphen"/>red all things for <hi>Oronces,</hi>
+councel<g ref="char:EOLhyphen"/>led him to withdraw, and depart that night, through a place in the
+Garden, where the paſſage was not difficult. There was ſo little
+proba<g ref="char:EOLhyphen"/>bility of ſaving himſelf otherwiſe from the danger, whereto he was
+expoſed, that he reſolved to follow the Countel of his dear Miſtreſs,
+whom he bid adiew to in the eve<g ref="char:EOLhyphen"/>ning, and took leave of her, with<g ref="char:EOLhyphen"/>out having
+time to reflect upon the means of recovering her, thus abandoned by his
+departure.</p>
+            <pb n="95" facs="tcp:59476:50"/>
+            <p>He was not yet arrived at the place, by which he was to make his
+eſcape, when he met a <hi>Nun,</hi> whom chance, or the deſire of taking a
+little freſh air had brought thither. She immediately perceived Siſter
+<hi>Aurelia,</hi> by reaſon of her Habit, be<g ref="char:EOLhyphen"/>ing white mingled with black,
+which reaches the ſight, ſooner then any thing elſe, and joyning with
+her, retained her in ſpight of all the Arti<g ref="char:EOLhyphen"/>fices, which ſhe uſed, to get
+rid of her.</p>
+            <p>She entertained her with what had paſt in the Houſe; and with
+what was to be done, on the mor<g ref="char:EOLhyphen"/>row, according to the command of the Superiour.
+Theſe diſcourſes put <hi>Aurelia</hi> upon Thornes. Neverthe<g ref="char:EOLhyphen"/>leſs it
+was impoſſible for her to get from that Impertinent, and to add to his
+miſfortune, ſhe, who had the charge of locking up all the Gates, came to
+adviſe them to retire, that the retreat was rung; and that ſhe came to
+perform her office.</p>
+            <pb n="96" facs="tcp:59476:51"/>
+            <p>This unhappy rencounter broke all the Meaſures of our poor
+Lover, he was forced to reenter the <hi>Cloy<g ref="char:EOLhyphen"/>ſter,</hi> and go to his own
+bed, think<g ref="char:EOLhyphen"/>ing continually how to ſecure him<g ref="char:EOLhyphen"/>ſelf from the ſtorm and
+tempeſt, which threatned him. But alas! that Wit, that ſuggeſted to him
+his for<g ref="char:EOLhyphen"/>mer Stratagem, failed him upon this occaſion.</p>
+            <p>
+               <hi>Eugenia,</hi> perceiving him in the morning, in the Quire
+among the reſt, was in the greateſt amazement in the world. The ſearch
+was to be made in the Afternoon, and there was no poſſibility of eſcaping
+by day the ſight of ſo many people. She ſpoke to him, and underſtood,
+what had hindred his departure, ſhe thought, ſhe ſtudied, ſhe
+meditated, but ſtill in vain, and in that diſqui<g ref="char:EOLhyphen"/>et, ſhe remitted her
+cauſe to the God of love, whom ſhe conjured, not to abandon them in ſo
+dangerous an extremity.</p>
+            <p>In the mean while, the time ap<g ref="char:EOLhyphen"/>pointed <pb n="97" facs="tcp:59476:51"/>for the
+execution of the or<g ref="char:EOLhyphen"/>donnance being come, all the <hi>Nuns</hi> had freſh
+notice, to go and preſent themſelves, one after another, to the old ones
+deputed to ſearch, and ſeveral had already undergone that mortification,
+when <hi>Eugenia</hi> came thither, and retired as ſoon as ſhe could out of
+the hands of thoſe old Matrons, whoſe faſhions would have made her laugh,
+had ſhe not had ſo much cauſe of affliction.</p>
+            <p>
+               <hi>Oronces</hi> his turn approached, when <hi>Eugenia</hi>
+perceiving her ſelf all of a ſuddain tranſported, went to find him out
+and readily changing Habits with him (which differed from the reſt) as we
+have already told you, ſhe bid him not to torment himſelf; and ſaid, that
+ſhe hoped, that with this diſguiſe every thing would fall out to their
+advantage.</p>
+            <p>In effect ſhe went again, to preſent herſelf, with her Veil
+dow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n before theſe
+Venerable Dames, who took her, by the White and Black Habit, 
+<pb n="98" facs="tcp:59476:52"/>which ſhe wore, for ſiſter <hi>Aurelia.</hi> She
+being eſteemed very vertuous, they believed that it was modeſty, obliged
+her to be ſo Veiled, and there<g ref="char:EOLhyphen"/>fore they would not vex her with any demand,
+but putting their ſpect<g ref="char:EOLhyphen"/>acles upon their noſes and taking their candles in
+hand, they viſited that fair place with a great deal of diligence, which they
+could not know again, though they had ex<g ref="char:EOLhyphen"/>actly viewed it juſt a little
+before. Being ſo eſcaped from the danger, ſhe went immediately to
+<hi>Oronces,</hi> and reſtored to him his Garments, aſſuring him, that
+there was nothing more to be feared: then he gave a thouſand Kiſſes to
+this witty Lover, and at the ſame time, they both re<g ref="char:EOLhyphen"/>ſolved, to go together
+to <hi>Rome,</hi> to the end, to annul the vows by which <hi>Eugenia</hi> was
+engaged, and to have her remitted in her former li<g ref="char:EOLhyphen"/>berty.</p>
+            <p>The good Matrons made their re<g ref="char:EOLhyphen"/>port to the Superiour, and ſaid,
+that <pb n="99" facs="tcp:59476:52"/>although they had ſeen great matters, yet that they
+had perceived nothing capable of giving Siſter <hi>Lucia</hi> the Tympany,
+that incommoded her; that the miſchief muſt have come from without, and
+that by uſing a little cunning to convict her, they might diſcover, who had
+been the Author of ſo great a ſcandal. This advice was followed with
+ſucceſs, for <hi>Lucia</hi> fell into the ſnare laid for her, and became
+obliged to confeſs her fault without any diſguiſe.</p>
+            <p>A little time after his had paſt, <hi>Oronces</hi>'s Fathers
+death was publiſhed over all the Town, though our Lo<g ref="char:EOLhyphen"/>ver ſaw himſelf by
+it, at more liber<g ref="char:EOLhyphen"/>ty than before, yet he reſented it very much, and his
+natural tender<g ref="char:EOLhyphen"/>neſs made him, in ſecret, ſhed abun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance of tears, to the Memory of him, who had
+given him life.</p>
+            <p>In the interim, his elder brother<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearing that he was no longer in the Army,
+cauſed him to be enquired af<g ref="char:EOLhyphen"/>ter on all ſides, and the report of it 
+<pb n="100" facs="tcp:59476:53"/>being come to the Monaſtery, where he was, upon the
+account of his Miſt<g ref="char:EOLhyphen"/>reſs ſhut up in it, they thought it time, to contrive
+their retreat, leaſt ſome Misfortune ſhould diſcover them to thoſe,
+who made ſuch curi<g ref="char:EOLhyphen"/>ous enquiries after their Perſons.</p>
+            <p>Nothing is more induſtrious than Love, <hi>Eugenia</hi> found a
+way to have two Gentile ſuits of man's appa<g ref="char:EOLhyphen"/>rel, by the means of a Confident
+whom ſhe had abroad, telling her, that ſhe had a deſign to make
+pre<g ref="char:EOLhyphen"/>ſents of them to two of her Cozens, who were almoſt of the ſame
+ſtature, but becauſe ſhe would ſurprize them with that liberality,
+ſhe purpoſed to keep the matter ſecret. This Friend, not knowing any
+thing conſiderable of her Amours, could not imagin the uſe ſhe would put
+theſe Garments to, but did unfeignedly believe what was told her, and within
+three days ſhe delivered them ready made and finiſht, into her hands, who
+had given her Orders about them.</p>
+            <pb n="101" facs="tcp:59476:53"/>
+            <p>As ſoon as theſe two Lovers had wherewithall to ſhift their
+Habits, they thought of nothing more than of their departure. <hi>Oronces</hi>
+had brought with him two hundred Piſt<g ref="char:EOLhyphen"/>olls, which the war had enriched him
+with. Theſe he had always preſer<g ref="char:EOLhyphen"/>ved for a time of neceſſity, and it
+was wiſely done, for they were of great uſe to him in the journey, which he
+now undertook. After that both had made themſelves ready, and taken with them
+what was ne<g ref="char:EOLhyphen"/>ceſſary, they departed about nine of the clock in the Evening,
+through that place, already mentioned, in the Garden, and went immediately by
+favour of the night to put on their new Equipage.</p>
+            <p>The fear they were in of being known in the Town, made them walk a
+quarter of a league a foot, af<g ref="char:EOLhyphen"/>ter which they arrived in a Village, where
+having taken lodging u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der
+borrowed names, they hired two Horſes, to depart on the break of 
+<pb n="102" facs="tcp:59476:54"/>day. Though the young <hi>Eugenia</hi> was not
+accuſtomed to this kind of riding, yet her addreſs was mar<g ref="char:EOLhyphen"/>vellous, and
+ſhe would have given thoſe, who did not know her, reaſon to believe, that
+ſhe had performed all her exerciſes in the <hi>Academie.</hi>
+            </p>
+            <p>Whil'ſt our two Fugitives made all the haſt they could to
+<hi>Marſeilles,</hi> the whole Monaſtery, from which they ran away, was in
+diſorder. It ſeemed that all the Furies were let looſe againſt them, by
+reaſon of the continual misfortunes, that aſſaulted them, and of the
+irregularity that became ſo publick. In this conjun<g ref="char:EOLhyphen"/>cture they knew not what
+to ſay of the preſent ſcandal, nor think what might be the cauſe of it.
+They ne<g ref="char:EOLhyphen"/>ver dreamt of <hi>Oronces,</hi> and the man<g ref="char:EOLhyphen"/>ner, that he and
+<hi>Eugenia</hi> had beha<g ref="char:EOLhyphen"/>ved themſelves in the Houſe, added to the
+ſurprize of all the Religious.</p>
+            <p>Several People were ſent after them, but in vain, for beſides
+that they had taken a way quite contra<g ref="char:EOLhyphen"/>ry, <pb n="103" facs="tcp:59476:54"/>to that by
+which they were pur<g ref="char:EOLhyphen"/>ſued; they were already emb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rq<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed at <hi>Marſeilles,</hi> where they arrived, be<g ref="char:EOLhyphen"/>fore their
+departure, which was for ſome time concealed, had been pub<g ref="char:EOLhyphen"/>liſh't abroad,
+and before it came to the knowledge of Secular Perſons, who cauſed the
+purſuit after them. I cannot expreſs, how great was <hi>L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rentia</hi>'s ſorrow, it was
+ſo much the more in that ſhe knew, that ſhe her ſelf had occaſioned
+by her conſtraint all this irregularity, and had forced her Daughter, to
+incloſe her ſelf in a place, for which ſhe had never had any inclination.
+Let us leave her to deplore the loſs of her dear <hi>Euge<g ref="char:EOLhyphen"/>nia,</hi> and
+follow the way of our Lovers.</p>
+            <p>
+               <hi>Oronces</hi> having been ſo happy as to find at
+<hi>Marſeilles</hi> a Veſſel ready to ſaile to <hi>Civita Vecchia,</hi>
+he embar<g ref="char:EOLhyphen"/>qued therein, together with his Miſt<g ref="char:EOLhyphen"/>reſs, and made proviſion of
+all ne<g ref="char:EOLhyphen"/>ceſſaries for their voyage. The wind was ſo favourable, that in
+two days they arrived at <hi>Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> where after <pb n="104" facs="tcp:59476:55"/>taking ſome
+refreſhment, they de<g ref="char:EOLhyphen"/>parted, that they might not loſe the opportunity of
+the fair weather. But alas! the more they advanced, the nearer they approached
+their ruin. The weather changed in a moment, and a ſtorm ſucceeded the fair
+day they had had, and the violent agita<g ref="char:EOLhyphen"/>tion of the Waves threatned nothing
+leſs, than an aſſured Shipwrack. It was in vain that in this
+diſaſter, the <hi>Pilots</hi> and <hi>Mariners</hi> endeavoured to recover
+the Coaſt, which was too farr off. They muſt yield to the Tem<g ref="char:EOLhyphen"/>peſt, and
+place all their hopes in him, who alone can command that fierce Element, and be
+obeyed. In the inte<g ref="char:EOLhyphen"/>rim, <hi>Eugenia,</hi> more dead than alive, lay extended
+betwen her Loversarms, who, though he himſelf was no leſs afflicted,
+endeavoured to comfort her by all the reaſons, which his troubled Spirit
+could afford him, in this lamentable confuſion.</p>
+            <p>But the night, which the <hi>Pilots</hi> drea<g ref="char:EOLhyphen"/>ded moſt, proved
+not ſo vexatious, as <pb n="105" facs="tcp:59476:55"/>was feared. The wind ſuddainly
+aba<g ref="char:EOLhyphen"/>ted, and the Sky, diſcloſing ſome Stars, gave them a little comfort,
+promi<g ref="char:EOLhyphen"/>ſing them according to apparencies, weather proper to perſue their
+voy<g ref="char:EOLhyphen"/>age. In effect they weighed anchor in the Dawn, and having fitted the Ship,
+they ſayled away, ſinging a thouſand ſongs of joy, which made them
+forget their paſt dangers.</p>
+            <p>But alas! how ſhort was their joy, and what hardſhip did their
+ill for<g ref="char:EOLhyphen"/>tune ſtill provide for them? They ſcarce began to enjoy that
+interval of fair Weather, when they ſaw them<g ref="char:EOLhyphen"/>ſelves expoſed to a danger,
+a thou<g ref="char:EOLhyphen"/>ſand times more tormenting, than that which they had ſo luckily
+eſ<g ref="char:EOLhyphen"/>caped. They perceived from far a <hi>Corſaire,</hi> who, rightly
+gueſſing that the Tempeſt would ſcatter ſome Veſ<g ref="char:EOLhyphen"/>ſels upon their
+Coaſts, lay in wait for them, and already made appear by his motions, that he
+looked upon this Ship, as an infallible Prey.</p>
+            <p>Thoſe, who guided the Veſſel, <pb n="106" facs="tcp:59476:56"/>where our
+Lovers were, gave them notice of the miſfortune threatning them, and of the
+ſlavery, to which they ſhould be reduced, if they fell into the hands of
+the <hi>Corſair,</hi> whom they perceived out at Sea. Captivi<g ref="char:EOLhyphen"/>ty is an evil a
+thouſand times more inſupportable, to a well born Soul, than death it
+ſelf. Now crys and lamentations only were to be heard, and this news began to
+put all things in diſorder, but this as yet was no<g ref="char:EOLhyphen"/>thing, in compariſon of
+what paſt, when they ſaw that the <hi>Barbarian</hi> bore up with full
+ſail towards them; and that it was impoſſible to ſave themſelves. Had
+<hi>Oronces</hi> not been there, <hi>Eugenia</hi> would have flung her ſelf
+into the Waters; the evident loſs of her liberty and honour, made her
+eſteem death much more agreeable, than the rude conſtraints, and infa<g ref="char:EOLhyphen"/>mous
+violences, to which, ſhe appre<g ref="char:EOLhyphen"/>hended, ſhe was going to be ſubjected.</p>
+            <p>Though in this to be pitied con<g ref="char:EOLhyphen"/>dition, her Lover was nearer death
+<pb n="107" facs="tcp:59476:56"/>than life, yet he comforted her, with giving her hopes,
+that ſhe might eſ<g ref="char:EOLhyphen"/>cape undiſcovered in the Habit, which ſhe wore,
+ſince it was not confor<g ref="char:EOLhyphen"/>mable to her Sex. That it was not without example,
+that captives have found clemency from thoſe kind of People, and that Love,
+who had drawn them out of a infinity of troubles, would not now forſake them
+in a rencounter, where his ſuc<g ref="char:EOLhyphen"/>cour was abſolutely neceſſary.</p>
+            <p>In the mean while, the <hi>Cor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air</hi> came up to them, and obliged them to
+lowre their Sails, and ſhot of ſe<g ref="char:EOLhyphen"/>veral pieces of Cannon, to fright them,
+the others, not being in a con<g ref="char:EOLhyphen"/>dition to defend themſelves againſt ſuch
+powerful Enemies, were con<g ref="char:EOLhyphen"/>ſtrained to yield to their force, and to receive
+into their Ship thoſe, who were about to enſlave them. As ſoon as the
+<hi>Barbarian</hi> was entered, he was raviſhed with the beauty of our two
+young <hi>Cavaliers;</hi> he enquired of what Nation they were, and whi<g ref="char:EOLhyphen"/>ther 
+<pb n="108" facs="tcp:59476:57"/>they deſigned to go. They an<g ref="char:EOLhyphen"/>ſwered, that they were
+two Brothers, born in <hi>France,</hi> and that they had departed thence to
+travel into <hi>Italy.</hi> The <hi>African,</hi> who underſtood the
+Language, was charmed with the en<g ref="char:EOLhyphen"/>gaging and reſpectful air, wherewith they
+had anſwered him; he prefer<g ref="char:EOLhyphen"/>red theſe fair youths before all the reſt of
+his Prey, and for their ſake, all thoſe of their Company were treated with
+leſs, in humanity, than is uſual in the like accidents. Neverthe<g ref="char:EOLhyphen"/>leſs
+they were forced to put on Irons in order to prevent all deſigns, that
+deſpair might inſpire them with, in ſo vexatious a conjuncture.
+<hi>Oronces</hi> and <hi>Eugenia,</hi> being more favoured by the
+<hi>Barbarian,</hi> and having diſſem<g ref="char:EOLhyphen"/>bled their affliction, were exempted
+from the Chains, and took for a good Omen, theſe firſt favours, which made
+them, as it were, ſtill enjoy an entire liberty.</p>
+            <p>Theſe poor unfortunate creatures, were brought to
+<hi>Tripoly,</hi> and were <pb n="109" facs="tcp:59476:57"/>all expoſed to ſale, except
+our two <hi>French</hi> men, and to change their their Maſter, as ſoon as
+they arrived there. The <hi>Corſair,</hi> knowing by the Carriage, Manners,
+and Habits of the two Brothers, that they were not of the common ſort, would
+keep them himſelf, and always treated them, as Perſons of the firſt
+Quality, and from whom, he expected a con<g ref="char:EOLhyphen"/>ſiderable Ranſome. So that it
+might be ſaid, that they were free in their ſlavery, and that they might
+reliſh the ſame ſweets, as they heretofore found in their entertainments,
+when they were without impriſonment or conſtraint.</p>
+            <p>Nevertheleſs, all this good uſage was capable only of
+leſsning their trouble, but not of freeing them al<g ref="char:EOLhyphen"/>together from it. The
+remembrance of what they were, and their ſhame and confuſion to diſcover
+to their Relations what had hapned to them, tormented their mind more than I
+can expreſs. They even reſolved not <pb n="110" facs="tcp:59476:58"/>to ſend them any
+account, or news of themſelves; but choſe rather to reſigne themſelves
+to Fortune, that does often pleaſe it ſelf in delivering the miſerable
+out of Dungeons, to raiſe them up to Thrones, than have recourſe to
+perſons, who would not relieve them, until they had paſt ſe<g ref="char:EOLhyphen"/>vere
+cenſures upon their conduct.</p>
+            <p>In the mean while, the <hi>Corſair,</hi> who expected
+ſuddainly to receive money for their deliverance, began to grow impatient at
+the delay, and he had already entertained them four Months, without obliging
+them to any employment, diſagreeable un<g ref="char:EOLhyphen"/>to them. He again demanded, whe<g ref="char:EOLhyphen"/>ther
+there were any thing to be ex<g ref="char:EOLhyphen"/>pected from them? <hi>Oronces</hi> anſwered
+him, that they acknowledged him for their Maſter, that they were at his
+diſcretion, and that they did be<g ref="char:EOLhyphen"/>lieve, that none were diſpoſed to
+ran<g ref="char:EOLhyphen"/>ſome-them.</p>
+            <p>The <hi>Barbarian,</hi> whom the Hopes of Gain, rather then the
+Luſtre of <pb n="111" facs="tcp:59476:58"/>Beauty had moved to the clemency uſed
+towards them, was very much ſurprized with that anſwer, and told them
+coldly, that they might then diſpoſe themſelves to change their dwelling,
+ſince that, they being un<g ref="char:EOLhyphen"/>fit for any labour, he would not a<g ref="char:EOLhyphen"/>ny longer
+maintain unprofitable people in his Houſe. In effect he ex<g ref="char:EOLhyphen"/>poſed them to
+ſale in the firſt Markets.</p>
+            <p>For you muſt know, that amongſt theſe Infidels, men are not
+in a much happier condition, than beaſts; and that they are there bought and
+ſold, after the ſame manner, as Animals void of reaſon are with us.</p>
+            <p>As ſoon as our <hi>Pirate</hi> had expoſed the two Young
+<hi>French</hi> men to pub<g ref="char:EOLhyphen"/>lick ſale, they were encompaſſed by a number
+of Perſons, who, judging by their meen, that they would be ſold at a dear
+rate, approached them more to admire their Beauty, than to make any proffer.
+Nevertheleſs, there were ſome, who endeavoured to become Maſters of them,
+but the <pb n="112" facs="tcp:59476:59"/>
+               <hi>Corſaire,</hi> who took them, deſiring to
+be reimburſed of the Expences which he had been at in their Entertain<g ref="char:EOLhyphen"/>ment,
+put ſo high a prize upon them, that they ſtill ſtuck upon his hands.</p>
+            <p>Whilſt that the <hi>African</hi> was in paine, to be with
+advantage rid of his Captives, he received news of the arrival of a Ship from
+<hi>Alexandria,</hi> ſent by a <hi>Beglerbeg</hi> or Governour of the
+Country, to tranſport Slaves, that were to be bought at <hi>Tripoly,</hi> but
+above all he was overjoyed, when he underſtood from the Captain, that he had
+order to ſearch for all the Fair Youths, that he could find, to carry to his
+Maſter, who had a deſign to make a Preſent of them to the
+<hi>Baſſa</hi> of <hi>Egypt.</hi>
+            </p>
+            <p>He imparted theſe news to our two Lovers, telling them that they
+were very much favoured by For<g ref="char:EOLhyphen"/>tune, in that they had fallen into no other
+hands than his, from whom they had not received any ill enter<g ref="char:EOLhyphen"/>tainment, and
+that they parted not <pb n="113" facs="tcp:59476:59"/>from him, but to be yet more happy,
+ſince they were deſtined for the plea<g ref="char:EOLhyphen"/>ſures of a Prince, who acknowledged
+no man above him, but the Grand Seigniour.</p>
+            <p>
+               <hi>Eugenia,</hi> who underſtood not the <hi>Barbarians</hi>
+meaning, received much joy at theſe news, but when <hi>Oronces,</hi> who was
+a little more knowing, had told her what he conceived, ſhe was not to be
+comforted, and wiſh't that an exceſſive Uglineſs might ſucceed her
+great Beauty, and that by ſome happy Metamorphoſis, the charms of her Youth
+might be changed in<g ref="char:EOLhyphen"/>to the horrid wrinkles of old Age. Her Lover did not differ
+from her in his wiſhes, but theſe were all in vain. Appear they muſt
+before him, who was to buy them, if he approved of them.</p>
+            <p>Though they ſtood in no need of Ornaments, to pleaſe thoſe
+who loo<g ref="char:EOLhyphen"/>ked upon them; yet they were cloa<g ref="char:EOLhyphen"/>thed in Veſts of Silk, branched all
+over with Gold, and wore upon their <pb n="114" facs="tcp:59476:60"/>heads a
+<hi>Turbant</hi> after the <hi>Ottoman</hi> Faſhion, and in that dreſs were
+brought to the <hi>Alexandrian</hi> Captain. Theſe Garments, which were very
+ſplendid, did not a little ſet of the Beau<g ref="char:EOLhyphen"/>ty of our two young Captives;
+and they received from them ſo great ad<g ref="char:EOLhyphen"/>vantage, that the Captain was
+char<g ref="char:EOLhyphen"/>med, and gave the <hi>Tripolin</hi> his own price for their Perſons.</p>
+            <p>See here <hi>Oronces</hi> and <hi>Eugenia</hi> rea<g ref="char:EOLhyphen"/>dy to ſail
+for <hi>Egypt,</hi> and in all appea<g ref="char:EOLhyphen"/>rance, for ever deprived of the
+hap<g ref="char:EOLhyphen"/>pineſs, vvhich they hoped for, in once more ſeeing their own Country.
+Yet they durſt not diſcover their Melancholy, for fear of rendring
+themſeves more miſerable. They gave the night only to their tears, and
+ſome ſecret Moments which they as it were ſtole, to eaſe their hearts
+of thoſe Pains and Tortures, which they felt within.</p>
+            <p>They being deſtined for the <hi>Baſ<g ref="char:EOLhyphen"/>ſas</hi> pleaſure, you
+may be ſure that they were not ill treated by the Cap<g ref="char:EOLhyphen"/>taine, 
+<pb n="115" facs="tcp:59476:60"/>who conſidered them, as men one day likely to become
+Favorits to his Prince, rather then as unhappy Slaves: he granted them every
+thing they deſired, and forgot nothing that might contribute to their
+ſatisfacti<g ref="char:EOLhyphen"/>on. They eat at his Table, which he cauſed to be ſerved with
+the moſt de<g ref="char:EOLhyphen"/>licious dainties, and meats moſt pro<g ref="char:EOLhyphen"/>per to preſerve them
+freſh and fair.</p>
+            <p>But alas! all theſe favours did not at all touch the hearts of
+our Lovers, they ſtifled a thouſand ſighs within themſelves, when they
+outwardly appeared any thing joyful; and the reflection, which they made upon
+their Fate, fretted them with hor<g ref="char:EOLhyphen"/>rour, and inſpired them with no<g ref="char:EOLhyphen"/>thing, but
+ſentiments of deſpair, to which, without particular Grace, they had without
+doubt abandoned them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>They were fifteen days in the <hi>Port</hi> of <hi>Tripoly,</hi>
+ere the wind ſtood fair for their departure. This gave them much joy, but it
+continued not long <pb n="116" facs="tcp:59476:61"/>for on the ſixteenth, it changed and
+became favourable. The <hi>Egyptian</hi> Captain, who deſired nothing more,
+than to return preſently to <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi> to make his Merchandiſe
+be there admired, cauſed the Anchors forthwith to be weighed, and with ful
+ſails departed, not deſigning to go far until they had attained the ſight
+of the neighbouring <hi>Promontory</hi> of the ſmall Iſle of Lea.</p>
+            <p>The beginning of their voyage, was ſo proſperous, that on the
+firſt night they came within ſight of <hi>Pon<g ref="char:EOLhyphen"/>tia,</hi> which is more than
+an hundred and fifty miles diſtant from the place whence they ſet out. All
+who were in the Ship, rejoyced at this good ſpeed. Our Lovers alone
+con<g ref="char:EOLhyphen"/>tinued ſad, and regarded themſelves as poor Victims, who were to be
+ſa<g ref="char:EOLhyphen"/>crificed to the Brutality of a Prince, if God by ſome extraordinary
+effect of his power, did not deliver them from the evident danger that came
+every moment nearer and nearer to them.</p>
+            <pb n="117" facs="tcp:59476:61"/>
+            <p>In fine their Tears and Prayers ſcended even to Heaven; the Wind
+changed in an inſtant, and became ſo fierce, that the <hi>Pilots</hi> were
+obliged to turne their Courſe back again, and to ſeek out ſome harbour,
+to ſhelter from the Storme, wherewith they were menaced. But the danger
+preſt them on all ſides, for they could not ſtay at <hi>Pontia,</hi>
+without expoſing them<g ref="char:EOLhyphen"/>ſelves to Banks of Sands, that encom<g ref="char:EOLhyphen"/>paſſed them:
+They could not alſo go far from thence, without approaching <hi>Malta,</hi>
+which belonged to their moſt untractable enemies. In this confuſi<g ref="char:EOLhyphen"/>on, they
+judged it more proper to re<g ref="char:EOLhyphen"/>tire from the ſands among which it was
+impoſſible to avoid Shipwrack, and to advance towards the Iſle, where
+nothing was to be feared, if they could eſcape unperceived.</p>
+            <p>But they had hardly ſhifted Sails that way, when they were
+diſcove<g ref="char:EOLhyphen"/>red by three Galleys and a man of War, belonging to the Iſland,
+which having deceived them with a falſe <pb n="118" facs="tcp:59476:62"/>Flag, attack't
+them ſo unexpectedly that the <hi>Egyptian</hi> Captain, being un<g ref="char:EOLhyphen"/>able to
+defend himſelf againſt ſo great a Force, was obliged to yield up
+him<g ref="char:EOLhyphen"/>ſelf, his Slaves, Ship and all.</p>
+            <p>Then our Lovers began to breath again when they ſaw themſelves
+in the hands of Chriſtians, and at the diſpoſal of a Nobility ſo
+generous, as are the Knights of <hi>Malta. Oronces,</hi> who had a Kinſman in
+that Order, made himſelf known immediately, and received from the Great
+Maſter, and all the <hi>French</hi> Knights then pre<g ref="char:EOLhyphen"/>ſent, all the Honour
+and fair enter<g ref="char:EOLhyphen"/>tainment, which his good Fortune had prepared for him. He told
+them a part of his adventures, and declared the deſign the had of going to
+<hi>Rome,</hi> along with the Gentleman that bore him Company, yet he could not
+pre<g ref="char:EOLhyphen"/>vent ſtaying ſome days among thoſe of his own Nation, who had a
+deſire to retain him for a longer time; but the opportunity of departing in a
+Galley, which had lately tranſported <pb n="119" facs="tcp:59476:62"/>an <hi>Italian</hi>
+Prince, ſeparated them, af<g ref="char:EOLhyphen"/>ter returning a thouſand thanks to the Great
+Maſter, and taking leave of the other Knights, who had ſo kindly
+entertained them.</p>
+            <p>It was in this Voyage, that Love, victorious over Fortune, happily
+con<g ref="char:EOLunhyphen"/>ducted theſe two delivered Captives. They paſt the ſtraights of
+<hi>Meſſina,</hi> and after having coaſted part of <hi>Ca<g ref="char:EOLhyphen"/>labria,</hi>
+and paſt within ſight of <hi>Nap<g ref="char:EOLhyphen"/>les,</hi> they arrived at the Port of
+<hi>Oſtia,</hi> from whence they went to <hi>Rome,</hi> with Letters of
+Recommendation to a <hi>Cardinal,</hi> who was Brother to the <hi>Italian</hi>
+Prince, we mentioned.</p>
+            <p>As ſoon as they were arrived in Town, they earneſtly
+ſollicited their buſineſs, and <hi>Eugenia</hi> having made a declaration
+of the manner, that ſhe entered into Religion, and of the ſur<g ref="char:EOLhyphen"/>prize, that
+had cauſed her to make her Vows, <hi>Oronces</hi> preſented it to the
+<hi>Cardinal,</hi> that he was recommended to; he gained his favour, and
+related to him every thing that he had done, <pb n="120" facs="tcp:59476:63" rendition="simple:additions"/>for
+that Lady, and the hazards which he had run through. The recital of ſo many
+misfortunes ſo moved the heart of this Lord, that he cauſed all the
+proceedings of her Profeſſion to be made null and void, and replaced her in
+her former liberty.</p>
+            <p>After this they returned into <hi>France,</hi> where their
+Marriage was celebrated, with ſo much the more joy, as that the Elder brother
+of <hi>Oronces,</hi> having been killed in a Duel, left him the only heir to
+all the Eſtate of his Family, and ſo obtained <hi>Laurentia</hi>'s
+conſent, (who was overjoyed to ſee again her dear <hi>Eugenia</hi>) yet
+ſhe never would have given it, but that ſhe could no longer refuſe it,
+without oppoſing her Daughters advantage. Pomp, ſports, and mirth
+accompanied the Nuptials of our Lovers. The Feaſt was publick and the
+Pleaſures of ſucceſsful Love was to both of them the more grate<g ref="char:EOLhyphen"/>ful, in
+that they had ſtrugled with in<g ref="char:EOLhyphen"/>finite obſtacles, which now they had happily
+overcome.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59476:63"/>
+         </div>
+      </body>
+   </text>
+</TEI>
